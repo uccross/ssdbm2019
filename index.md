@@ -69,10 +69,9 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion and exchange of ideas on all aspects of research related to scientific and statistical data management.
 
+<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
 All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. 
 
-<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" width="100">
- 
 ### Topics of Interest
 SSDBM 2019 will have a focus on high-performance data analysis tools and techniques for large data sets, with a special emphasis on genomics, astrophysics, and high-energy physics. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions .
 
@@ -114,7 +113,8 @@ Notification of acceptance: April 26, 2019
 Camera ready copy: June 3, 2019  
 
 ### Camera-ready Instructions
-All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.![Published by ACM ICPS](Images/ACM_ICPS_v.2B.jpg)
+<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
+All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.
 
 **IMPORTANT:** ACM now requires conference organizers to collect and submit the **source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.** Submission of source files was always a requirement, albeit one that was hardly enforced in the past. In anticipation of serving both accessibility compliant PDF and responsive HTML5 formatted files from the ACM Digital Library, ACM is now enforcing this requirement.
 
