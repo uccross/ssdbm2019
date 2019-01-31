@@ -9,7 +9,7 @@ Carlos Maltzahn (General Chair)
 
 ### Local organizers
 
-
+<a class="twitter-timeline" href="https://twitter.com/ssdbm2019?ref_src=twsrc%5Etfw">Tweets by ssdbm2019</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 # Conference Organizers #
 
