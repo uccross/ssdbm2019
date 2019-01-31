@@ -1,5 +1,5 @@
 <div id="twitter-feed" style="float:right; width:30%; text-align:right; margin-top:-10px; ">
-  <img src="Images/ssdbm.logo.2019.png" align="right" style="width:80%">
+  <img src="/assets/images/ssdbm.logo.2019.png" align="right" style="width:80%">
 <a class="twitter-timeline" data-lang="en" data-width="200" data-height="600" href="https://twitter.com/ssdbm2019?ref_src=twsrc%5Etfw">News by ssdbm2019</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 # Welcome to SSDBM 2019
@@ -12,9 +12,9 @@ Carlos Maltzahn (General Chair)
 ### We thank our sponsors
 
 ### Local organizers
-<a href="https://cross.ucsc.edu"><img src="Images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="300"></a> 
+<a href="https://cross.ucsc.edu"><img src="/assets/images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="300"></a> 
 
-<a href="https://soe.ucsc.edu"><img src="Images/baskin-logo-banner-new.jpg" alt="Jack Baskin School of Engineering" width="300"></a>
+<a href="https://soe.ucsc.edu"><img src="/assets/images/baskin-logo-banner-new.jpg" alt="Jack Baskin School of Engineering" width="300"></a>
 
 # Conference Organizers #
 
@@ -74,7 +74,7 @@ The SSDBM international conference brings together scientific domain experts, da
 
 SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion and exchange of ideas on all aspects of research related to scientific and statistical data management.
 
-<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
+<img src="/assets/images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
 All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. 
 
 ### Topics of Interest
@@ -118,7 +118,7 @@ Notification of acceptance: April 26, 2019
 Camera ready copy: June 3, 2019  
 
 ### Camera-ready Instructions
-<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
+<img src="/assets/images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" align="right" width="100">
 All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library.
 
 **IMPORTANT:** ACM now requires conference organizers to collect and submit the **source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.** Submission of source files was always a requirement, albeit one that was hardly enforced in the past. In anticipation of serving both accessibility compliant PDF and responsive HTML5 formatted files from the ACM Digital Library, ACM is now enforcing this requirement.
