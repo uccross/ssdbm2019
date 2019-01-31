@@ -1,5 +1,22 @@
 #theme: jekyll-theme-leap-day
 remote-theme: "mmistakes/minimal-mistakes@4.15.1"
-title: SSDBM 2019
-description: 31st International Conference on Scientific and Statistical Database Management
-plugins: ['jekyll-include-cache']
+title: "SSDBM 2019"
+description: "31st International Conference on Scientific and Statistical Database Management"
+url: "https://uccross.github.io/ssdbm2019"
+plugins:
+  - jekyll-include-cache
+  - jekyll-sitemap
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+locale: "en-US"
+repository: "uccross/issdm2019"
+logo: "/assets/images/ssdbm.logo.2019.png"
+twitter:
+  username: "ssdbm2019"
+footer:
+  links:
+    - label: "Twitter"
+      icon: ""fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ssdbm2019"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/uccross/ssdbm2019"
