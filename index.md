@@ -1,4 +1,4 @@
-# Welcome to SSDBM 2018
+## Welcome to SSDBM 2018
 Welcome to the website of the 31st International Conference on Scientific and Statistical Database Management, to be held in Santa Cruz, CA, USA on July 23-25, 2019. The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 31st SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation, and, for the first time, reproducibility studies of previous publications. The program of the research track will be supplemented with invited talks, panel sessions, case-study papers, and demonstrations of research prototypes and industrial systems. SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management.
 
 Tanu Malik (Program Chair)  
@@ -10,9 +10,13 @@ Carlos Maltzahn (General Chair)
 ### Local organizers
 
 
+<<<<<<< HEAD
 # Conference Organizers #
 
 ### Chairs
+=======
+## Conference Organizers
+>>>>>>> 60ad562d26a0bfa3f2a2827b12fbc265a5898f84
 
 **General Chair:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz  
 
@@ -76,7 +80,7 @@ Xuechen Zhang, Washington State University
 Ming Zhao, Arizona State University, Phoenix  
 Qiang Zhi, University of Michigan, Dearborn  
 
-# Call for Contributions
+## Call for Contributions
 
 The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical databases and applications. The 31st SSDBM provides a forum for original research contributions and practical system designs, implementations and evaluations. The program of the research track will be supplemented with invited talks and demonstrations.
 
@@ -147,7 +151,7 @@ ACM now requires conference organizers to collect and submit the **source files 
 
 For any questions regarding your camera-ready version, please contact the proceedings chair Tanu Malik. 
 
-# Program
+## Program
 ### Proceedings
 ### Accepted Papers
 ### Keynotes
@@ -155,12 +159,12 @@ For any questions regarding your camera-ready version, please contact the procee
 ### Detailed Program
 ### Social Events
 
-# Information for Participants
+## Information for Participants
 ### Registration
 ### Accommodation
 ### Conference Venue
 ### About Santa Cruz
 
-# Sponsorship
+## Sponsorship
 ### Call for Sponsors
 ### Sponsor List
