@@ -71,7 +71,7 @@ SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a sti
 
 All accepted papers will be published by ACM – International Conference Proceedings Series (ICPS) and will be available in the ACM Digital Library. 
 
-![Published by ACM ICPS](Images/ACM_ICPS_v.2B.jpg)
+<img src="Images/ACM_ICPS_v.2B.jpg" alt="Published by ACM ICPS" width="100">
  
 ### Topics of Interest
 SSDBM 2019 will have a focus on high-performance data analysis tools and techniques for large data sets, with a special emphasis on genomics, astrophysics, and high-energy physics. The conference encourages authors to make their experimental results reproducible and include reproducibility experiences in their submissions .
