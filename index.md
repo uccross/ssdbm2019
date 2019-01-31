@@ -135,3 +135,21 @@ ACM now requires conference organizers to collect and submit the **source files 
 1. Submit the camera-ready PDF in EasyChair ([https://easychair.org/conferences/?conf=ssdbm19]). In addition to the camera-ready PDF, you **must** also submit an archive (zip or tgz) with the source files (LaTeX or Word).
 
 For any questions regarding your camera-ready version, please contact the proceedings chair Tanu Malik. 
+
+# Program
+### Proceedings
+### Accepted Papers
+### Keynotes
+### Program Overview
+### Detailed Program
+### Social Events
+
+# Information for Participants
+### Registration
+### Accommodation
+### Conference Venue
+### About Santa Cruz
+
+# Sponsorship
+### Call for Sponsors
+### Sponsor List
