@@ -15,21 +15,7 @@ Carlos Maltzahn (General Chair)
 
 ### Chairs
 
-**General Chair:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz  
-
-**Program Chair:** [Tanu Malik](http://dbgroup.cdm.depaul.edu/~tanu/), DePaul University, Chicago  
-
-**Reproducibility Chair:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz  
-
-**Demo Chair:** TBD  
-
-**Local Arrangements Chairs:**  
-Lavinia Preston, University of California, Santa Cruz  
-Stephanie Lieggi, University of California, Santa Cruz
-
-**Proceedings Chair:** Tanu Malik  
-
-**Web Chair:** Ivo Jimenez  
+**General:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz - **Program:** [Tanu Malik](http://dbgroup.cdm.depaul.edu/~tanu/), DePaul University, Chicago - **Reproducibility:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz - **Demos:** TBD - **Local Arrangements:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz - **Proceedings:** Tanu Malik - **Web:** Ivo Jimenez 
 
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory (chair)  
