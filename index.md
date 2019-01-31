@@ -11,8 +11,8 @@ Carlos Maltzahn (General Chair)
 ### We thank our sponsors
 
 ### Local organizers
-[<img src="" alt="Center for Research in Open Source Software" width="400">](https://cross.ucsc.edu)  
-[<img src="Images/baskin-logo-banner-new.jpg" alt="Jack Baskin School of Engineering" width="400">](https://soe.ucsc.edu)
+<a href="https://cross.ucsc.edu"><img src="Images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="400"></a>    
+<a href="https://soe.ucsc.edu"><img src="Images/baskin-logo-banner-new.jpg" alt="Jack Baskin School of Engineering" width="400"></a>
 
 # Conference Organizers #
 
