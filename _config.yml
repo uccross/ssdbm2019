@@ -1,5 +1,5 @@
-#theme: jekyll-theme-leap-day
-remote-theme: "mmistakes/minimal-mistakes@4.15.1"
+theme: jekyll-theme-leap-day
 title: SSDBM 2019
 description: 31st International Conference on Scientific and Statistical Database Management
-plugins: ['jekyll-include-cache']
+twitter_username: ssdbm2019
+logo: /assets/images/ssdbm.logo.2019.png
