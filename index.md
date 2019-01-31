@@ -5,18 +5,29 @@ Tanu Malik (Program Chair)
 Ivo Jimenez (Reproducibility Chair)  
 Carlos Maltzahn (General Chair)  
 
-## We thank our sponsors
+### We thank our sponsors
 
-## Local organizers
+### Local organizers
 
-# Conference Organizers
+
+# Conference Organizers #
+
+### Chairs
 
 **General Chair:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz  
+
 **Program Chair:** [Tanu Malik](http://dbgroup.cdm.depaul.edu/~tanu/), DePaul University, Chicago  
+
 **Reproducibility Chair:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz  
+
 **Demo Chair:** TBD  
-**Local Arrangements Chairs:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz  
+
+**Local Arrangements Chairs:**  
+Lavinia Preston, University of California, Santa Cruz  
+Stephanie Lieggi, University of California, Santa Cruz
+
 **Proceedings Chair:** Tanu Malik  
+
 **Web Chair:** Ivo Jimenez  
 
 ### Steering Committee
