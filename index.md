@@ -147,6 +147,29 @@ For any questions regarding your camera-ready version, please contact the procee
 ### Detailed Program
 ### Social Events
 
+#### July 23, 5:00-7:00pm – Reception at the historic Cowell Hay Barn on the UCSC Campus ####
+
+![Cowell Ranch Hay Barn](assets/images/CowellRanchHayBarn.png)
+
+The original Cowell Ranch Hay Barn was built in the early 1860s as part of the Cowell Lime Works operation. The Hay Barn was an integral part of the Cowell Ranch, housing feed and the animals that hauled logs, limestone, and finished lime. Today the Hay Barn and the many nearby historic structures from the lime works period are part of the Cowell Lime Works Historic District.
+
+The original Hay Barn was completely disassembled and renovated in 2015 to serve as a space for public use and headquarters of the Center for Agroecology & Sustainable Food Systems.
+
+The reconstructed Hay Barn incorporates some of the historic barn's heavy timbers and siding, and features traditional mortise-and-tenon framing juxtaposed with modern materials and contemporary design, to achieve a rustic yet visually distinct building. The award-winning result is a beautiful and dramatic signature building with a soaring, spacious interior offering a unique setting for weddings, banquets, concerts, conferences, and much more. See [https://cowellhaybarn.ucsc.edu/] for more information about the Hay Barn and its history.
+
+#### July 24, 5:30-8:30pm – Reception & Banquet at the Seymour Marine Discovery Center ####
+
+![Seymour Marine Discovery Center](assets/images/SeymourMarineDiscoveryCenter.png)
+
+The Seymour Marine Discovery Center is a community-supported marine science education center of the University of California, Santa Cruz. It resides on the UC Santa Cruz Coastal Science Campus, a dynamic hub for research, education, and policy programs that address coastal and ocean conservation and management issues. Here, some of the world’s best coastal and marine scientists, government and non-government experts, and public education leaders create synergies that result in discovery and effective conservation solutions. The Center in the public face of this work.
+
+Through our breathtaking seaside learning center, we bring the adventures and explorations of ocean science to life. Powered by the Long Marine Laboratory, a world-renowned university research facility, the Seymour Marine Discovery Center offers hands-on immersion into the world of ocean exploration and discovery. With a 20,000-square-foot visitor center, guests can touch a shark, explore the latest discoveries in ocean science, and take in the spectacular Monterey Bay, called the “Serengeti of the Sea,” for its incredible diversity of marine life.
+
+The Center offers a deeper dive into the research conducted at Long Marine Lab and a chance for everyone to find their inner scientist through rich experiential learning programs including school field-trips, summer youth programs, Science Sundays, volunteer opportunities, internships, and more.
+SSDBM attendees will enjoy appetizers and drinks from 5:30 to 6:30 on the Shipwreck Deck overlooking the ocean. The exhibits will be open just for us and docents will be available at the seawater table. A buffet dinner will follow from 6:30-8:30 in the La Feliz Room.
+
+For more information on the Seymour Center, please go to [https://seymourcenter.ucsc.edu]
+
 # Information for Participants
 ### Registration
 ### Accommodation
