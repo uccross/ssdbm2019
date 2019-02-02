@@ -217,8 +217,8 @@ By the 1820's Mexico had assumed control of the area and within the next twenty 
 
 By the turn of the century logging, lime processing, agriculture, and commercial fishing industries prospered in the area. Due to its mild climate and scenic beauty Santa Cruz also became a prominent resort community.
 
-<img src="assets/images/SantaCruzHistory1.png" align="left">
-<img src="assets/images/SantaCruzHistory2.png" align="right">
+<img src="/assets/images/SantaCruzHistory1.png" align="left">
+<img src="/assets/images/SantaCruzHistory2.png" align="right">
 Santa Cruz was incorporated in 1866 as a town under the laws of the State of California and received its first charter as a city in 1876.
 
 [More Santa Cruz History](http://www.santacruzpl.org/history/)
