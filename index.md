@@ -215,8 +215,8 @@ Twenty-two years later, in 1791, Father Fermin de Lasuen established a mission a
 
 By the 1820's Mexico had assumed control of the area and within the next twenty years, Americans began to arrive in great numbers. California became a state in 1850 and Santa Cruz County was created as one of the twenty-seven original counties.
 
-<img src="/assets/images/SantaCruzHistory1.png" align="left">
-<img src="/assets/images/SantaCruzHistory2.png" align="right">
+<img src="assets/images/SantaCruzHistory1.png" align="left">
+<img src="assets/images/SantaCruzHistory2.png" align="right">
 By the turn of the century logging, lime processing, agriculture, and commercial fishing industries prospered in the area. Due to its mild climate and scenic beauty Santa Cruz also became a prominent resort community.
 
 Santa Cruz was incorporated in 1866 as a town under the laws of the State of California and received its first charter as a city in 1876.
