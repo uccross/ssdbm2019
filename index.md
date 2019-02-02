@@ -159,9 +159,9 @@ The conference will be held in Room 180, on the ground floor of the Engineering 
 
 ![Map of Courtyard Area](assets/images/MapOfCourtyardArea.png)
 
-For additional maps and directions to campus, please go to https://www.maps.ucsc.edu/
+For additional maps and directions to campus, please go to [https://www.maps.ucsc.edu/]
 
-**Directions to the UC Santa Cruz campus:** Google Maps - https://www.google.com/maps - provides the best directions to get from either San Francisco or San Jose International Airports. It provides general driving directions from the Bay Area to Santa Cruz and the UCSC Campus. The best routes can vary depending up time of day and corresponding traffic conditions. 
+**Directions to the UC Santa Cruz campus:** [Google Maps](https://www.google.com/maps) provides great directions to get from either San Francisco or San Jose International Airports. It provides general driving directions from the Bay Area to Santa Cruz and the UCSC Campus. The best routes can vary depending up time of day and corresponding traffic conditions. 
 
 From San Francisco, you should allow a minimum of one and a half hours to drive to the University. From San Jose, it normally takes about 45 minutes to drive to campus. It can take longer to drive from either airport if you arrive during afternoon Rush Hour, normally from 3:30 to 5:30pm
 
@@ -229,25 +229,25 @@ Santa Cruz is a bustling small city of about 65,000 people located at the northe
 
 Santa Cruz is known for its moderate climate, natural environment, coastline, redwood forests, alternative community lifestyles, and socially liberal leanings. It is also home to the University of California, Santa Cruz, a premier research institution and educational hub, as well as the Santa Cruz Beach Boardwalk, an oceanfront amusement park operating continuously since 1907.
 
-Pacific Avenue is the main downtown street, and it’s loaded with shops, restaurants and great movie theaters. See http://www.downtownsantacruz.com/about/ for details about some of the shops, restaurants and sights. 
+Pacific Avenue is the main downtown street, and it’s loaded with shops, restaurants and great movie theaters. See [http://www.downtownsantacruz.com/about/] for details about some of the shops, restaurants and sights. 
 
 ![Downtown Santa Cruz](assets/images/DowntownSantaCruz.png)
 
 ##### Santa Cruz Beach Boardwalk #####
 
-The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See https://beachboardwalk.com/FAQs for details about visiting this iconic amusement area.
+The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See [https://beachboardwalk.com/FAQs] for details about visiting this iconic amusement area.
 
 ![Santa Cruz Beach Boardwalk](assets/images/SantaCruzBeachBoardwalk.png)
 
 ##### Natural Bridges State Beach #####
 
-Natural Bridges State Beach is a 65-acre California state park in Santa Cruz, California in the United States. The park features a natural bridge across a section of the beach. It is also well known as a hotspot to see monarch butterfly migrations. Their website provides details on visiting http://www.parks.ca.gov/?page_id=541.
+Natural Bridges State Beach is a 65-acre California state park in Santa Cruz, California in the United States. The park features a natural bridge across a section of the beach. It is also well known as a hotspot to see monarch butterfly migrations. [Their website](http://www.parks.ca.gov/?page_id=541) provides details on visiting.
 
 ![Natural Bridges State Beach](assets/images/NaturalBridgesStateBeach.png)
 
 ##### Santa Cruz Wharf #####
 
-The Santa Cruz Wharf is known for fishing, boat tours, viewing sea lions, dining, nightlife and gift shops. The current wharf was built in 1914, the last of six built on the site, and is operated by the City of Santa Cruz Parks and Recreation Office. Details are available on their website http://www.cityofsantacruz.com/government/city-departments/parks-recreation/facilities/santa-cruz-wharf/about .
+The Santa Cruz Wharf is known for fishing, boat tours, viewing sea lions, dining, nightlife and gift shops. The current wharf was built in 1914, the last of six built on the site, and is operated by the City of Santa Cruz Parks and Recreation Office. Details are available on [their website](http://www.cityofsantacruz.com/government/city-departments/parks-recreation/facilities/santa-cruz-wharf/about).
 
 ![Santa Cruz Wharf](assets/images/SantaCruzWharf.png)
 
@@ -275,7 +275,7 @@ Start your walk at the Santa Cruz Municipal Wharf and head past the iconic Santa
 ![Map of West Cliff Drive](assets/images/MapWestCliffDrive.png)
 
 **For a comprehensive list of things to see and do in Santa Cruz go to**
-https://www.santacruz.org/things-to-do
+[https://www.santacruz.org/things-to-do]
 
 #### The Santa Cruz Area ####
 
