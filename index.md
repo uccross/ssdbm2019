@@ -332,7 +332,7 @@ We offer the following sponsorship packages:
 - Logo/name as silver sponsor in all publications and the website
 - Free registration for 1 participant
 
-#### Gold Sponsor (2,500) ####
+#### Gold Sponsor ($2,500) ####
 
 - Logo/name as gold sponsor in all publications and the website
 - Banner at the conference location, banquet and reception
@@ -349,8 +349,8 @@ We offer the following sponsorship packages:
 For sponsorship, please contact:
 
 Stephanie Lieggi  
-University of California, Santa Cruz
-E-mail: slieggi@ucsc.edu
-Phone: +1-831-459-1932
+University of California, Santa Cruz  
+E-mail: slieggi@ucsc.edu  
+Phone: +1-831-459-1932  
 
 ### Sponsor List
