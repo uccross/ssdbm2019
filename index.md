@@ -151,7 +151,141 @@ For any questions regarding your camera-ready version, please contact the procee
 ### Registration
 ### Accommodation
 ### Conference Venue
+### Directions
+
+The SSDBM 2019 Conference will take place at the Baskin School of Engineering, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA.
+
+The conference will be held in Room 180, on the ground floor of the Engineering 2 building, which is located off the Courtyard Area between Engineering 2 and the Baskin Engineering Building (see map below). We will have a tent and registration desk set up outside the room.
+
+![Map of Courtyard Area](assets/images/MapOfCourtyardArea.png)
+
+For additional maps and directions to campus, please go to https://www.maps.ucsc.edu/
+
+**Directions to the UC Santa Cruz campus:** Google Maps - https://www.google.com/maps - provides the best directions to get from either San Francisco or San Jose International Airports. It provides general driving directions from the Bay Area to Santa Cruz and the UCSC Campus. The best routes can vary depending up time of day and corresponding traffic conditions. 
+
+From San Francisco, you should allow a minimum of one and a half hours to drive to the University. From San Jose, it normally takes about 45 minutes to drive to campus. It can take longer to drive from either airport if you arrive during afternoon Rush Hour, normally from 3:30 to 5:30pm
+
+**Conference parking:** Parking permits for all three days will be included with attendee registrations. The Core West parking structure is very close to the Engineering 2 building, and spaces will be available for SSDBM attendees.
+
+![Core West Parking Structure](assets/images/CoreWestParkingStructure.png)
+
+**Directions to the Core West Parking Structure and the Basking School of Engineering:** Hwy 17 ends at Business Highway 1 (Mission Street). At that intersection, turn right onto Mission Street and travel approximately 1 mile north to **Bay Street**. Turn right onto Bay St. and drive up to the Main Campus Entrance. Turn left at that intersection onto **Empire Grade**. (see map below). 
+
+(Note: starting at the entrance to campus, there will be small black and white signs that say “SSDBM” to help guide you along the way.)
+
+Follow **Empire Grade** to the **West Entrance** of campus (there is a traffic light there).  Turn right onto
+**Heller Drive** and continue through four stop signs.
+
+A short distance after the 4th stop sign, turn right into the **Core West Parking Structure** (just
+before the Heller/McLauglin intersection).  There will be a sign at the entrance that directs SSDBM
+Conference attendees to the second or third floor of the parking structure. A parking attendant will be there to give you your parking permit and direct you to a parking area.
+
+![Map from Campus Entrance to Core West Parking Structure](assets/images/MapWestToCoreWest.png)
+
+**Permits are required for parking (you will get a ticket if you do not display one).**
+
+Parking permits can be picked up at the Core West parking structure each morning of the conference
+between 7:30 and 9:30am. Event parking attendants will meet you on the second or third floor of the
+garage; keep driving until you see them. They will give you a permit to display on your car dashboard and direct you to a parking space. Attendants will have a list of registered attendees, so be prepared to identify yourself
+as an SSDBM participant.
+
+The parking attendants leave the garage promptly at 9:30 am. If you need a parking permit, but arrive
+after 9:30am or you did not request one when you confirmed your attendance (and therefore are not
+on the parking attendant's list of registered attendees), then instead of entering the CORE WEST
+structure, please continue on HELLER DRIVE and turn right onto MC LAUGHLIN DRIVE. 
+
+Turn left at the stop sign into the Baskin Circle area (see map below). Follow the road around to the curb area, park in the green loading zone and call or text Lavinia at 408-505-4729. DO NOT LEAVE YOUR CAR. If there is
+no space to park, just keep circling or pull over out the way somewhere. Lavinia will quickly send
+someone to you with a permit, after which you can retrace your steps and park in Core West.
+
+After you park, proceed to the North Stairwell and walk across the street to the Baskin Engineering
+Building. Walk through the Baskin Engineering Building and to the courtyard behind it. The registration
+desk will be set up next to a big tent.
+
+![Map to Baskin Circle and Registration](assets/images/MapRegistration.png)
+
+
 ### About Santa Cruz
+
+#### History ####
+
+In 1769 the Spanish explorer Don Gaspar de Portola discovered the land area which is now known as the City of Santa Cruz. When he came upon the beautiful flowing river, he named it San Lorenzo in honor of Saint Lawrence. He called the rolling hills above the river Santa Cruz, which means holy cross.
+
+Twenty-two years later, in 1791, Father Fermin de Lasuen established a mission at Santa Cruz, the twelfth mission to be founded in California. Across the San Lorenzo River, in what is now known as East Santa Cruz, Villa de Branciforte was established It was founded by the Spanish as one of three civil settlements or pueblos in California. The other pueblos were San Jose and Los Angeles. Villa de Branciforte later merged with the Mission Santa Cruz community across the river.
+
+By the 1820's Mexico had assumed control of the area and within the next twenty years, Americans began to arrive in great numbers. California became a state in 1850 and Santa Cruz County was created as one of the twenty-seven original counties.
+
+By the turn of the century logging, lime processing, agriculture, and commercial fishing industries prospered in the area. Due to its mild climate and scenic beauty Santa Cruz also became a prominent resort community.
+
+<img src="assets/images/SantaCruzHistory1.png" align="left">
+<img src="assets/images/SantaCruzHistory2.png" align="right">
+Santa Cruz was incorporated in 1866 as a town under the laws of the State of California and received its first charter as a city in 1876.
+
+[More Santa Cruz History](http://www.santacruzpl.org/history/)
+
+#### Santa Cruz highlights include ####
+
+##### Downtown Santa Cruz #####
+
+Santa Cruz is a bustling small city of about 65,000 people located at the northern end of Monterey Bay. It is about 32 mi (51 km) south of San Jose and 75 mi (120 km) south of San Francisco.
+
+Santa Cruz is known for its moderate climate, natural environment, coastline, redwood forests, alternative community lifestyles, and socially liberal leanings. It is also home to the University of California, Santa Cruz, a premier research institution and educational hub, as well as the Santa Cruz Beach Boardwalk, an oceanfront amusement park operating continuously since 1907.
+
+Pacific Avenue is the main downtown street, and it’s loaded with shops, restaurants and great movie theaters. See http://www.downtownsantacruz.com/about/ for details about some of the shops, restaurants and sights. 
+
+![Downtown Santa Cruz](assets/images/DowntownSantaCruz.png)
+
+##### Santa Cruz Beach Boardwalk #####
+
+The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See https://beachboardwalk.com/FAQs for details about visiting this iconic amusement area.
+
+![Santa Cruz Beach Boardwalk](assets/images/SantaCruzBeachBoardwalk.png)
+
+##### Natural Bridges State Beach #####
+
+Natural Bridges State Beach is a 65-acre California state park in Santa Cruz, California in the United States. The park features a natural bridge across a section of the beach. It is also well known as a hotspot to see monarch butterfly migrations. Their website provides details on visiting http://www.parks.ca.gov/?page_id=541.
+
+![Natural Bridges State Beach](assets/images/NaturalBridgesStateBeach.png)
+
+##### Santa Cruz Wharf #####
+
+The Santa Cruz Wharf is known for fishing, boat tours, viewing sea lions, dining, nightlife and gift shops. The current wharf was built in 1914, the last of six built on the site, and is operated by the City of Santa Cruz Parks and Recreation Office. Details are available on their website http://www.cityofsantacruz.com/government/city-departments/parks-recreation/facilities/santa-cruz-wharf/about .
+
+![Santa Cruz Wharf](assets/images/SantaCruzWharf.png)
+
+##### Santa Cruz Surfing Museum #####
+
+The Santa Cruz Surfing Museum is a museum which was established in May 1986 to document the history of
+surfing. With collections dating back to the earliest years of surfing on mainland United States, the museum
+houses a historical account of surfing in Santa Cruz. It is located on West Cliff Drive on the cliff above the well-known surfing spot, Steamer Lane.
+
+![Santa Cruz Surfing Museum](assets/images/SantaCruzSurfingMuseum.png)
+
+##### Steamer Lane #####
+
+Steamer Lane is a famous surfing location in Santa Cruz just below the Santa Cruz Surfing Museum. There are
+paths and walkways on top of the cliff that provide great views of the waves and the surfers.
+ 
+![Steamer Lane](assets/images/SteamerLane.png)
+
+##### West Cliff Drive Scenic Walk #####
+
+West Cliff Drive is a scenic, 3-mile walking and biking path along the Pacific Ocean in Santa Cruz. Watch surfers, observe wildlife or just admire the incredible ocean views. 
+
+Start your walk at the Santa Cruz Municipal Wharf and head past the iconic Santa Cruz Dream Inn to watch some of the best surfers in the world catch a wave at world-renown Steamer Lane. Stop in for a little surfing history at the Santa Cruz Surfing Museum or watch for whales and dolphins at Lighthouse Point. West Cliff Drive ends at Natural Bridges State Beach, winter home of the Monarch butterfly. Turn around and head back, for a hike that covers almost 6 miles round-trip. West Cliff Drive is wheelchair accessible and is popular with locals and tourists alike.
+
+![Map of West Cliff Drive](assets/images/MapWestCliffDrive.png)
+
+**For a comprehensive list of things to see and do in Santa Cruz go to**
+https://www.santacruz.org/things-to-do
+
+#### The Santa Cruz Area ####
+
+The area around Santa Cruz is loaded with beaches, parks and things to do, including redwood forests such as [Big Basin](https://www.parks.ca.gov/?page_id=540) and [Henry Cowell](https://www.parks.ca.gov/?page_id=546) State Parks.
+
+In addition to the beaches in Santa Cruz itself there are numerous other city and state beaches both north and south of Santa Cruz, each one unique in its own way.
+
+![Map of the Santa Cruz area](assets/images/MapSantaCruzArea.png)
 
 # Sponsorship
 ### Call for Sponsors
