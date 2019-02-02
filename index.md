@@ -247,9 +247,7 @@ Due to its mild climate and scenic beauty Santa Cruz also became a prominent res
 
 Santa Cruz was incorporated in 1866 as a town under the laws of the State of California and received its first charter as a city in 1876. [[More Santa Cruz History...](http://www.santacruzpl.org/history/)]
 
-#### Santa Cruz highlights include ####
-
-##### Downtown Santa Cruz #####
+#### Downtown Santa Cruz ####
 
 Santa Cruz is a bustling small city of about 65,000 people located at the northern end of Monterey Bay. It is about 32 mi (51 km) south of San Jose and 75 mi (120 km) south of San Francisco.
 
@@ -259,25 +257,25 @@ Pacific Avenue is the main downtown street, and it’s loaded with shops, restau
 
 ![Downtown Santa Cruz](assets/images/DowntownSantaCruz.png)
 
-##### Santa Cruz Beach Boardwalk #####
+#### Santa Cruz Beach Boardwalk ####
 
 The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See [https://beachboardwalk.com/FAQs](https://beachboardwalk.com/FAQs) for details about visiting this iconic amusement area.
 
 ![Santa Cruz Beach Boardwalk](assets/images/SantaCruzBeachBoardwalk.png)
 
-##### Natural Bridges State Beach #####
+#### Natural Bridges State Beach ####
 
 Natural Bridges State Beach is a 65-acre California state park in Santa Cruz, California in the United States. The park features a natural bridge across a section of the beach. It is also well known as a hotspot to see monarch butterfly migrations. [Their website](http://www.parks.ca.gov/?page_id=541) provides details on visiting.
 
 ![Natural Bridges State Beach](assets/images/NaturalBridgesStateBeach.png)
 
-##### Santa Cruz Wharf #####
+#### Santa Cruz Wharf ####
 
 The Santa Cruz Wharf is known for fishing, boat tours, viewing sea lions, dining, nightlife and gift shops. The current wharf was built in 1914, the last of six built on the site, and is operated by the City of Santa Cruz Parks and Recreation Office. Details are available on [their website](http://www.cityofsantacruz.com/government/city-departments/parks-recreation/facilities/santa-cruz-wharf/about).
 
 ![Santa Cruz Wharf](assets/images/SantaCruzWharf.png)
 
-##### Santa Cruz Surfing Museum #####
+#### Santa Cruz Surfing Museum ####
 
 The Santa Cruz Surfing Museum is a museum which was established in May 1986 to document the history of
 surfing. With collections dating back to the earliest years of surfing on mainland United States, the museum
@@ -285,14 +283,14 @@ houses a historical account of surfing in Santa Cruz. It is located on West Clif
 
 ![Santa Cruz Surfing Museum](assets/images/SantaCruzSurfingMuseum.png)
 
-##### Steamer Lane #####
+#### Steamer Lane ####
 
 Steamer Lane is a famous surfing location in Santa Cruz just below the Santa Cruz Surfing Museum. There are
 paths and walkways on top of the cliff that provide great views of the waves and the surfers.
  
 ![Steamer Lane](assets/images/SteamerLane.png)
 
-##### West Cliff Drive Scenic Walk #####
+#### West Cliff Drive Scenic Walk ####
 
 West Cliff Drive is a scenic, 3-mile walking and biking path along the Pacific Ocean in Santa Cruz. Watch surfers, observe wildlife or just admire the incredible ocean views. 
 
