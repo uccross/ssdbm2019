@@ -1,5 +1,5 @@
 <div id="twitter-feed" style="float:right; width:30%; text-align:right; margin-top:-10px; ">
-  <img src="assets/images/ssdbm.logo.2019.png" align="right" style="width:80%">
+  <img src="assets/images/ssdbm.logo.2019.png" alt="SSDBM 2019 logo" align="right" style="width:80%">
 <a class="twitter-timeline" data-lang="en" data-width="200" data-height="600" href="https://twitter.com/ssdbm2019?ref_src=twsrc%5Etfw">News by ssdbm2019</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 ![UCSC and Engineering 2](assets/images/UCSCAndEngineering2.png)
@@ -111,7 +111,7 @@ We solicit papers describing original work relevant to the management of scienti
  
 **Demo Papers:** We solicit demonstration proposals (4 pages) which should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will also be given an entry in the conference proceedings.
 
-The submission website is [https://easychair.org/conferences/?conf=ssdbm19].  Submissions are accepted in PDF format using the new ACM proceedings LATEX or Word templates. Authors should use the sigconf proceedings template. Please see instructions at the ACM web site: [http://www.acm.org/publications/article-templates/proceedings-template.html]. If you are encountering any problems using the LATEX templates, please contact [acmtexsupport@aptaracorp.com]. 
+The submission website is [https://easychair.org/conferences/?conf=ssdbm19](https://easychair.org/conferences/?conf=ssdbm19).  Submissions are accepted in PDF format using the new ACM proceedings LATEX or Word templates. Authors should use the sigconf proceedings template. Please see instructions at the ACM web site: [http://www.acm.org/publications/article-templates/proceedings-template.html](http://www.acm.org/publications/article-templates/proceedings-template.html). If you are encountering any problems using the LATEX templates, please contact [acmtexsupport@aptaracorp.com](acmtexsupport@aptaracorp.com). 
  
 ### Important dates
 The following deadlines apply to long, short, reproducibility study, and demo papers:
@@ -131,14 +131,14 @@ The deadline for submitting the camera-ready paper is June 3rd. This is a hard d
 ACM now requires conference organizers to collect and submit the **source files for each paper – all files which were used to create the final output (PDF), be they Word, LaTeX, image files, etc.** Submission of source files was always a requirement, albeit one that was hardly enforced in the past. In anticipation of serving both accessibility compliant PDF and responsive HTML5 formatted files from the ACM Digital Library, ACM is now enforcing this requirement.
 1. Authors who are specified in EasyChair as contacts must have received an email from ACM Rightsreview (rightsreview@acm.org) with a link to the electronic ACM copyright-permission form. Please complete the form as soon as possible. **IMPORTANT: the email is sent by an automated system to the primary contact only. Please make sure that the authors specified as contacts have received the email and that it has not wound up in a Spam folder.**
 1. Upon completion of the ACM rights management form, the authors will receive an email with instructions on how to include rights and permissions information, and the bibliographic strip into the camera-ready version. Your **must** enter the text into their paper. Please follow the instructions carefully.
-1. Ensure that your camera-ready version complies with the ACM Master Template. Instructions are available at https://www.acm.org/publications/proceedings-template. You should use the "sigconf" proceedings template. If you have any problems with the templates, please contact ACM’s TeX support team at Aptara (acmtexsupport@aptaracorp.com).
-1. Use the online CCS indexing tool (http://dl.acm.org/ccs/ccs.cfm?) to select appropriate CCS concepts for your article. Then, generate the corresponding text/code and include it into your camera-ready version.
+1. Ensure that your camera-ready version complies with the ACM Master Template. Instructions are available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template). You should use the "sigconf" proceedings template. If you have any problems with the templates, please contact ACM’s TeX support team at Aptara ([acmtexsupport@aptaracorp.com](acmtexsupport@aptaracorp.com)).
+1. Use the online CCS indexing tool ([http://dl.acm.org/ccs/ccs.cfm?](http://dl.acm.org/ccs/ccs.cfm?)) to select appropriate CCS concepts for your article. Then, generate the corresponding text/code and include it into your camera-ready version.
 1. Create the camera-ready PDF, paying attention to the following:
    1. Adhere to the page limits: 12 pages for full and reproducibility study papers, 4 pages for short and demo papers.
    1. Page size should be US-Letter 8.5in x 11in (around 21.59cm x 27.94cm).
-   1. All fonts must be Type 1 (scalable), and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file. See instructions here: http://www.ec.tuwien.ac.at/~dimitris/var/fonts.html.
+   1. All fonts must be Type 1 (scalable), and not Type 3 (bit-mapped). All fonts must be embedded within the PDF file. See instructions here: [http://www.ec.tuwien.ac.at/~dimitris/var/fonts.html](http://www.ec.tuwien.ac.at/~dimitris/var/fonts.html).
    1. Do not include page numbers.
-1. Submit the camera-ready PDF in EasyChair ([https://easychair.org/conferences/?conf=ssdbm19]). In addition to the camera-ready PDF, you **must** also submit an archive (zip or tgz) with the source files (LaTeX or Word).
+1. Submit the camera-ready PDF in EasyChair ([https://easychair.org/conferences/?conf=ssdbm19](https://easychair.org/conferences/?conf=ssdbm19)). In addition to the camera-ready PDF, you **must** also submit an archive (zip or tgz) with the source files (LaTeX or Word).
 
 For any questions regarding your camera-ready version, please contact the proceedings chair Tanu Malik. 
 
@@ -158,7 +158,7 @@ The original Cowell Ranch Hay Barn was built in the early 1860s as part of the C
 
 The original Hay Barn was completely disassembled and renovated in 2015 to serve as a space for public use and headquarters of the Center for Agroecology & Sustainable Food Systems.
 
-The reconstructed Hay Barn incorporates some of the historic barn's heavy timbers and siding, and features traditional mortise-and-tenon framing juxtaposed with modern materials and contemporary design, to achieve a rustic yet visually distinct building. The award-winning result is a beautiful and dramatic signature building with a soaring, spacious interior offering a unique setting for weddings, banquets, concerts, conferences, and much more. See [https://cowellhaybarn.ucsc.edu/] for more information about the Hay Barn and its history.
+The reconstructed Hay Barn incorporates some of the historic barn's heavy timbers and siding, and features traditional mortise-and-tenon framing juxtaposed with modern materials and contemporary design, to achieve a rustic yet visually distinct building. The award-winning result is a beautiful and dramatic signature building with a soaring, spacious interior offering a unique setting for weddings, banquets, concerts, conferences, and much more. See [https://cowellhaybarn.ucsc.edu/](https://cowellhaybarn.ucsc.edu/) for more information about the Hay Barn and its history.
 
 #### July 24, 5:30-8:30pm – Reception & Banquet at the Seymour Marine Discovery Center ####
 
@@ -171,7 +171,7 @@ Through our breathtaking seaside learning center, we bring the adventures and ex
 The Center offers a deeper dive into the research conducted at Long Marine Lab and a chance for everyone to find their inner scientist through rich experiential learning programs including school field-trips, summer youth programs, Science Sundays, volunteer opportunities, internships, and more.
 SSDBM attendees will enjoy appetizers and drinks from 5:30 to 6:30 on the Shipwreck Deck overlooking the ocean. The exhibits will be open just for us and docents will be available at the seawater table. A buffet dinner will follow from 6:30-8:30 in the La Feliz Room.
 
-For more information on the Seymour Center, please go to [https://seymourcenter.ucsc.edu]
+For more information on the Seymour Center, please go to [https://seymourcenter.ucsc.edu](https://seymourcenter.ucsc.edu)
 
 # Information for Participants
 ### Registration
@@ -185,7 +185,7 @@ The conference will be held in Room 180, on the ground floor of the Engineering 
 
 ![Map of Courtyard Area](assets/images/MapOfCourtyardArea.png)
 
-For additional maps and directions to campus, please go to [https://www.maps.ucsc.edu/]
+For additional maps and directions to campus, please go to [https://www.maps.ucsc.edu/](https://www.maps.ucsc.edu/)
 
 **Directions to the UC Santa Cruz campus:** [Google Maps](https://www.google.com/maps) provides great directions to get from either San Francisco or San Jose International Airports. It provides general driving directions from the Bay Area to Santa Cruz and the UCSC Campus. The best routes can vary depending up time of day and corresponding traffic conditions. 
 
@@ -255,13 +255,13 @@ Santa Cruz is a bustling small city of about 65,000 people located at the northe
 
 Santa Cruz is known for its moderate climate, natural environment, coastline, redwood forests, alternative community lifestyles, and socially liberal leanings. It is also home to the University of California, Santa Cruz, a premier research institution and educational hub, as well as the Santa Cruz Beach Boardwalk, an oceanfront amusement park operating continuously since 1907.
 
-Pacific Avenue is the main downtown street, and it’s loaded with shops, restaurants and great movie theaters. See [http://www.downtownsantacruz.com/about/] for details about some of the shops, restaurants and sights. 
+Pacific Avenue is the main downtown street, and it’s loaded with shops, restaurants and great movie theaters. See [http://www.downtownsantacruz.com/about/](http://www.downtownsantacruz.com/about/) for details about some of the shops, restaurants and sights. 
 
 ![Downtown Santa Cruz](assets/images/DowntownSantaCruz.png)
 
 ##### Santa Cruz Beach Boardwalk #####
 
-The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See [https://beachboardwalk.com/FAQs] for details about visiting this iconic amusement area.
+The Santa Cruz Beach Boardwalk is a classic seaside amusement park located along a beautiful sandy beach. The Boardwalk features more than 40 rides and attractions including two National Historic Landmarks: the world- famous 1924 Giant Dipper wooden roller coaster and the beautiful 1911 Looff Carousel, plus many scream- inducing thrill rides, gentle kiddie rides, casual restaurants, gift shops, games, indoor arcades, and miniature golf. See [https://beachboardwalk.com/FAQs](https://beachboardwalk.com/FAQs) for details about visiting this iconic amusement area.
 
 ![Santa Cruz Beach Boardwalk](assets/images/SantaCruzBeachBoardwalk.png)
 
@@ -301,7 +301,7 @@ Start your walk at the Santa Cruz Municipal Wharf and head past the iconic Santa
 ![Map of West Cliff Drive](assets/images/MapWestCliffDrive.png)
 
 **For a comprehensive list of things to see and do in Santa Cruz go to**
-[https://www.santacruz.org/things-to-do]
+[https://www.santacruz.org/things-to-do](https://www.santacruz.org/things-to-do)
 
 #### The Santa Cruz Area ####
 
