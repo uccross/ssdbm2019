@@ -309,6 +309,48 @@ In addition to the beaches in Santa Cruz itself there are numerous other city an
 
 ![Map of the Santa Cruz area](assets/images/MapSantaCruzArea.png)
 
+### Santa Cruz Area Restaurants ###
+
+#### Downtown & Beach Area ####
+
+[515 Kitchen & Cocktails –California Cuisine](https://www.515santacruz.com/)  
+[Alderwood – Seasonal Local Cuisine](https://www.alderwoodsantacruz.com/)  
+[Gabriella Café – Local Cuisine](http://gabriellacafe.com/)  
+[Laili - Mediterranean/Afghan Cuisine](http://lailirestaurant.com/)  
+[El Palomar – Mexican Cuisine](http://elpalomarsantacruz.com/)  
+[Oswald – California Cuisine](http://www.oswaldrestaurant.com/)  
+[Sawasdee – Thai Cuisine overlooking Wharf](http://sawasdeebythesea.com/)
+[Olita’s – Mexican restaurant on the Wharf](http://www.olitassantacruz.com/)
+[Woodstock’s Pizza – Pizza and salads](https://woodstockscruz.com)
+
+#### West Santa Cruz (closest to UC Santa Cruz) ####
+
+[Sabieng - Thai Cuisine](https://www.sabiengthaicuisine.com/)  
+[West End Tap – Pub and California Cuisine](http://westendtap.com/)  
+[Burger Santa Cruz – Burgers/pizza](https://www.burgerlovesbeer.com/)  
+[Bantam – Wood-fired Pizza](http://www.bantam1010.com/)  
+
+#### Seabright/Midtown Area (East Santa Cruz) ####
+
+Akira Santa Cruz – Sushi - https://www.akirasantacruz.com/
+Jaguar – Provincial Mexican Cuisine - https://www.jaguarrestaurantinc.com/
+
+#### Capitola/Aptos/Soquel Area ####
+
+_These restaurants are further away (15-30 minutes), but are highly recommended._  
+
+[Café Cruz - 2621 41st Ave., Soquel – California Cuisine](http://www.cafecruz.com/)  
+[Persephone – 7945 Soquel Drive, Aptos – Seasonal Fine Dining](http://www.persephonerestaurant.com/)  
+[Gayle’s Bakery and Rosticceria – 504 Bay Avenue, Capitola – Bakery and Deli/hot foods to go](https://www.gaylesbakery.com/)  
+[Shadowbrook Restaurant – Traditional Dinner House overlooking river in Capitola (Note: they have a dining room dress code)](https://www.shadowbrook-capitola.com/)  
+
+#### Scotts Valley (Mt. Herman Road exit off Hwy 17 before you get to Santa Cruz) ####
+
+[Ambrosia India Bistro – Indian Cuisine](http://ambrosiaib.com/scotts-valley/)  
+[Sushi Blossom – Sushi](https://www.facebook.com/Sushiblossom)  
+[Malone’s – steaks, burgers](https://www.malonesgrille.com/)  
+
+
 # Sponsorship #
 
 ### Call for Sponsors
