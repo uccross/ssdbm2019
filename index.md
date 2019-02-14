@@ -332,8 +332,8 @@ In addition to the beaches in Santa Cruz itself there are numerous other city an
 
 #### Seabright/Midtown Area (East Santa Cruz) ####
 
-Akira Santa Cruz – Sushi - https://www.akirasantacruz.com/
-Jaguar – Provincial Mexican Cuisine - https://www.jaguarrestaurantinc.com/
+[Akira Santa Cruz – Sushi](https://www.akirasantacruz.com/)  
+[Jaguar – Provincial Mexican Cuisine](https://www.jaguarrestaurantinc.com/)  
 
 #### Capitola/Aptos/Soquel Area ####
 
