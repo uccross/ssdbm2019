@@ -23,7 +23,9 @@ Carlos Maltzahn (General Chair)
 
 ### Chairs
 
-**General:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz - **Program:** [Tanu Malik](http://dbgroup.cdm.depaul.edu/~tanu/), DePaul University, Chicago - **Reproducibility:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz - **Demos:** TBD - **Local Arrangements:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz - **Proceedings:** Tanu Malik - **Web:** Ivo Jimenez 
+**General:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz - **Program:** [Tanu Malik](http://facsrv.cs.depaul.edu/~tmalik1), DePaul University, Chicago - **Reproducibility:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz - **Demos:** TBD - **Local Arrangements:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz - **Proceedings:** Tanu Malik - **Web:** Ivo Jimenez 
+
+Contact: [ssdbm19@easychair.org](ssdbm19@easychair.org) 
 
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory (chair)  
@@ -111,7 +113,7 @@ We solicit papers describing original work relevant to the management of scienti
  
 **Demo Papers:** We solicit demonstration proposals (4 pages) which should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will also be given an entry in the conference proceedings.
 
-The submission website is [https://easychair.org/conferences/?conf=ssdbm19](https://easychair.org/conferences/?conf=ssdbm19).  Submissions are accepted in PDF format using the new ACM proceedings LATEX or Word templates. Authors should use the sigconf proceedings template. Please see instructions at the ACM web site: [http://www.acm.org/publications/article-templates/proceedings-template.html](http://www.acm.org/publications/article-templates/proceedings-template.html). If you are encountering any problems using the LATEX templates, please contact [acmtexsupport@aptaracorp.com](acmtexsupport@aptaracorp.com). 
+The submission website is [https://easychair.org/conferences/?conf=ssdbm19](https://easychair.org/conferences/?conf=ssdbm19).  Submissions are accepted in PDF format using the new ACM proceedings LATEX or Word templates. Authors should use the sigconf proceedings template. Please see instructions at the ACM web site: [http://www.acm.org/publications/article-templates/proceedings-template.html](http://www.acm.org/publications/article-templates/proceedings-template.html). If you are encountering any problems using the LATEX templates, please contact [acmtexsupport@aptaracorp.com](acmtexsupport@aptaracorp.com). For all other questions, please use [ssdbm19@easychair.org](ssdbm19@easychair.org).
  
 ### Important dates
 The following deadlines apply to long, short, reproducibility study, and demo papers:
