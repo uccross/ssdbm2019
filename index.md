@@ -192,7 +192,7 @@ From 652 students in 1965, the campus has grown to its current (2017-18) enrollm
 
 Graduate students work toward graduate certificates, master's degrees, or doctoral degrees in 41 academic programs under the supervision of the divisional and graduate deans.
 
-![UCSC Barn](assets/images/UCBarn.png)  ![UCSC Bridge](assets/images/UCBridge.png)
+![UCSC Barn](assets/images/UCSCBarn.png)  ![UCSC Bridge](assets/images/UCSCBridge.png)
 
 The 10 UC Santa Cruz undergraduate colleges — each a separate community with its own buildings and administration — are built around a core of shared university facilities. These include the main and science/engineering libraries, performing arts buildings, visual arts studios, classrooms, computer facilities, and a complex of highly specialized buildings for the physical and biological sciences, and for engineering. Athletic facilities are provided on the east and west sides of the campus.
 
@@ -204,7 +204,7 @@ UC Santa Cruz continues to move forward with its [Silicon Valley Campus](https:/
 
 Go to [https://www.ucsc.edu/visit/index.html](https://www.ucsc.edu/visit/index.html) to find out more about visiting UC Santa Cruz.
 
-![UCSC Library](assets/images/UCLibrary.png)
+![UCSC Library](assets/images/UCSCLibrary.png)
 
 In addition to the Main Campus, there are several other UCSC places to visit in the Santa Cruz area. A few examples are: the [Arboretum](https://arboretum.ucsc.edu/), [Farm & Garden](https://casfs.ucsc.edu/), and the [Coastal Science Campus](https://coastalsciencecampus.ucsc.edu/).
 
