@@ -177,6 +177,67 @@ For more information on the Seymour Center, please go to [https://seymourcenter.
 ### Registration
 ### Accommodation
 ### Conference Venue
+
+![Entrance of UC Santa Cruz](assets/images/EntranceOfUCSantaCruz.png)
+
+#### About UC Santa Cruz ####
+
+Since its founding in 1965, the University of California, Santa Cruz, has earned international distinction as a university with high-impact research and an uncommon commitment to teaching and public service.
+
+A campus with world-class facilities and one of the most visually spectacular settings in higher education, UC Santa Cruz offers rigorous academic programs and cutting-edge research opportunities that teach students how to think, not what to think. Commitments to environmental stewardship and community engagement are central to UCSC's core values.
+
+From 652 students in 1965, the campus has grown to its current (2017-18) enrollment of more than 18,000 students. Undergraduates pursue bachelor's degrees in 65 different majors supervised by divisional deans of [arts](https://arts.ucsc.edu/), [engineering](https://soe.ucsc.edu/), [humanities](https://humanities.ucsc.edu/), [physical & biological sciences](https://pbsci.ucsc.edu/), and [social sciences](https://socialsciences.ucsc.edu/).
+
+Graduate students work toward graduate certificates, master's degrees, or doctoral degrees in 41 academic programs under the supervision of the divisional and graduate deans.
+
+![UCSC Barn](assets/images/UCBarn.png)  ![UCSC Bridge](assets/images/UCBridge.png)
+
+The 10 UC Santa Cruz undergraduate colleges — each a separate community with its own buildings and administration — are built around a core of shared university facilities. These include the main and science/engineering libraries, performing arts buildings, visual arts studios, classrooms, computer facilities, and a complex of highly specialized buildings for the physical and biological sciences, and for engineering. Athletic facilities are provided on the east and west sides of the campus.
+
+UC Santa Cruz is increasing both its enrollment and resources and diversifying its educational and research opportunities. New academic programs are considered and added when desirable and feasible. The campus's physical growth is guided by its most recent [Long-Range Development Plan](https://lrdp.ucsc.edu) which is being updated. In 2013-14 the campus initiated a [strategic planning process](https://cpevc.ucsc.edu/envision-ucsc/) to identify priorities and published its final report in March 2017.
+
+A number of state-of-the-art buildings have been completed on campus in recent years, including the Biomedical Sciences Building, the Humanities and Social Sciences Facility, the Digital Arts Research Center, and the McHenry Library expansion. A restored and updated [Quarry Amphitheater](https://news.ucsc.edu/2016/10/quarry-restoration.html) reopened in fall 2017.
+
+UC Santa Cruz continues to move forward with its [Silicon Valley Campus](https://siliconvalley.ucsc.edu/), a multi-disciplinary teaching and research hub that is home to a master’s degree program in games and playable media, engineering faculty, the new office of industry alliances and technology commercialization, UCSC Silicon Valley Extension, and UC Scout.
+
+Go to [https://www.ucsc.edu/visit/index.html](https://www.ucsc.edu/visit/index.html) to find out more about visiting UC Santa Cruz.
+
+![UCSC Library](assets/images/UCLibrary.png)
+
+In addition to the Main Campus, there are several other UCSC places to visit in the Santa Cruz area. A few examples are: the [Arboretum](https://arboretum.ucsc.edu/), [Farm & Garden](https://casfs.ucsc.edu/), and the [Coastal Science Campus](https://coastalsciencecampus.ucsc.edu/).
+
+#### Arboretum ####
+
+Located on Empire Grade one-half mile west of the main entrance to the campus, the [Arboretum](https://arboretum.ucsc.edu/) has extensive collections of plants from the South Pacific and South Africa, other exotic flora, a rock garden, and a eucalyptus grove. Call 831-502-2998 for more information; 502-2999 for Norrie's Gift & Garden Shop; or go to the [Arboretum web site](https://arboretum.ucsc.edu/).
+
+![Humming Bird at Arboretum](assets/images/Arboretum1.png) ![Stairs at Arboretum](assets/images/Arboretum2.png) ![Welcome Sign at Arboretum](assets/images/Arboretum3.png)
+
+#### Farm & Garden ####
+
+The 30-acre organic Farm, where the [Center for Agroecology & Sustainable Food Systems](https://casfs.ucsc.edu/) does much of its work, is located west of the main entrance road. Fruit trees, vegetables, flowers, herbs, berries, and other research crops are used to study nonchemical, organic methods of sustainable agriculture. Similar work is done at the three-acre Alan Chadwick Garden established in 1967 just below Merrill College. Produce from the Farm is marketed from late spring through early fall. Both facilities are open year-round. Open houses and public talks on techniques for growing plants and trees are also offered. For general information, call 831-459-4140; for group tours, call 831-459-3240.
+
+![Late Summer on the UCSC Farm](assets/images/LateSummerOnTheUCSCFarm.png)
+
+![Black Tailed Deer are frequently seen on campus](assets/images/BlackTailedDeerAreFrequentlySeenOnCampus.png)
+
+#### Coastal Science Campus ####
+
+The approximately 100-acre [UC Santa Cruz Coastal Science Campus](https://coastalsciencecampus.ucsc.edu/) — at the western end of Delaware Avenue in Santa Cruz — is at the edge of the Pacific Ocean, three miles from the main campus. Facilities include UCSC's Long Marine Laboratory and its Seymour Marine Discovery Center and Center for Ocean Health; the National Marine Fisheries Service Santa Cruz Laboratory; and a California Department of Fish and Wildlife lab.
+
+The newly constructed Coastal Biology Building is home to UCSC's department of Ecology and Evolutionary Biology and provides state of the art classroom and lab facilities for undergraduates, graduates, researchers and faculty focused on the study of biology, marine sciences, ecology and evolution, and plant sciences.
+
+The Seymour Marine Discovery Center is open to the public. Visitors may learn about marine life in Monterey Bay and the Pacific through aquaria and other exhibits, including the skeleton of an 87-foot blue whale. Tours offer glimpses of research projects involving bottle-nosed dolphins, California sea lions, sea otters, elephant seals, and harbor seals. For more information, call 831-459-3800 or visit the [Seymour Center web site](https://www2.ucsc.edu/seymourcenter).
+
+_The SSDBM Banquet will be held at the Seymour Marine Discovery Center on July 24th. At that time the Exhibit Hall will be open to SSDBM guests **only** from 5:30-6:30pm. Docents will be available at the Seawater Table to talk about the marine life and the uniqueness of the Monterey Bay._
+
+![Seymour Marine Discovery Center Exhibit](assets/images/SeymourMarineDiscoveryCenterExhibit.png)
+
+Unlike a traditional aquarium, the Seymour Marine Discovery Center takes you behind the scenes to learn more about scientific research in our oceans. Learn more about elephant seal behavior, understand the role of sea otters in their ecosystem, observe the differences in plant and animal life in different tidepools, or learn more about the hearing of sea lions and harbor seals.
+
+![Blue Whale Skeleton](assets/images/BlueWhaleSkeleton.png)
+
+Blue Whale skeleton – this 87-foot blue whale skeleton is one of the largest skeletons of any kind, displayed anywhere in the world. When she died in 1979, she washed ashore north of Santa Cruz near Pescadero, and her skeleton was assembled in 1985. For more, see [https://seymourcenter.ucsc.edu/exhibits/outdoor-giants/](https://seymourcenter.ucsc.edu/exhibits/outdoor-giants/)
+
 ### Directions
 
 The SSDBM 2019 Conference will take place at the Baskin School of Engineering, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA.
