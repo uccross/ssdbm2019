@@ -118,7 +118,7 @@ The submission website is [https://easychair.org/conferences/?conf=ssdbm19](http
 ### Important dates
 The following deadlines apply to long, short, reproducibility study, and demo papers:
  
-Paper submission: **March 4, 2019, 11:59pm AOE (Anywhere on Earth)**  
+Paper submission: **~~March 4~~ March 11, 2019, 11:59pm AOE (Anywhere on Earth)**  
 Notification of acceptance: April 26, 2019  
 Camera ready copy: June 3, 2019  
 
