@@ -45,7 +45,7 @@ Gagan Agrawal, Ohio State University
 Peter Baumann, Jacobs University, Bremen  
 Khalid Bellhajahme, University Paris-Dauphine  
 Souvik Bhattacharjee, University of Maryland, College Park  
-Tamas Budavari, Johns Hopkins University
+Tamas Budavari, Johns Hopkins University  
 Amit Chavan, Amazon Web Services  
 Lazlo Doblos, Eötvös Loránd University, Budapest  
 Shawfeng Dong, SLAC National Accelerator Laboratory  
