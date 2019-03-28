@@ -186,6 +186,132 @@ For more information on the Seymour Center, please go to [https://seymourcenter.
 # Information for Participants
 ### Registration
 ### Accommodation
+
+SSDBM 2019 discounted room blocks are available at several local hotels for conference attendees ([interactive map](https://www.google.com/maps/@37.0090678,-122.0146215,14.08z/data=!4m3!11m2!2s_T_8_xJO-1kqW97cjkmmbwbX0ZQQAg!3e3)).
+
+Attendees need to make reservations directly and will be responsible for their own room, tax and incidental charges.
+
+SSDBM 2019 discount rates are available from July 22 through July 25 (checkout July 26) or a portion thereof. If you wish to arrive before or after those dates, you must make arrangements directly with the hotel.
+
+**Please make your reservations early.** The special rate cut-off dates range from June 1 to June 22, which is an entire month before the SSDBM Conference. Summer is high season for tourists in Santa Cruz, and your chances of booking a hotel room anywhere after June 20th are very slim, and if you do, it will be much more expensive than the SSDBM 2019 rates.
+
+Individual hotels have different requirements for registration and slightly different registration codes and cut-off dates, so please read the following instructions for each hotel below.
+
+Please note: all rooms in all hotels are non-smoking.
+
+#### Hotel Paradox ####
+
+<img src="assets/images/HotelParadox.png" align="right">
+611 Ocean Street  
+Santa Cruz, CA 95060  
++1-831-600-4510  
+www.hotelparadox.com  
+
+A discount rate of $189/night is available. **Cut-off date is June 21, 2019.**  
+
+To reserve, call +1-844-236-8186 and ask for the "**UCSC SSDBM Conference Room Block Discount Rate**."  
+Or go to: [UCSC SSDBM 2019 - Reservation-link](https://www.marriott.com/event-reservations/reservation-link.mi?id=1553119236284&key=GRP&app=resvlink)
+
+Reservations must be confirmed by or before June 21 to be eligible for the discount. Discount rates are only available for accommodations July 22 through July 26 for a single KING bed-type or a double QUEEN bed-type. 
+
+If you experience any technical challenges or wish to book outside the block dates, please contact Collin Cowsill at Hotel Paradox at +1-831-600-4510.
+
+#### Holiday Inn Express & Suites ####
+
+<img src="assets/images/HolidayInnExpress.png" align="right">
+1410 Ocean Street  
+Santa Cruz, CA 95060  
++1-831-466-9100  
+www.hiexpress/santacruz  
+
+*A two-night minimum stay is required.* A discount rate of $219/night is available. **Cut-off date is June 21, 2019.**		
+
+To reserve a room, go to: [SSDBM Santa Cruz 2019 - Online Booking Link](https://www.hiexpress.com/redirect?path=rates&brandCode=EX&localeCode=en&regionCode=1&hotelCode=srues&checkInDate=22&checkInMonthYear=062019&checkOutDate=25&checkOutMonthYear=062019&numberOfAdults=2&_PMID=99801505&GPC=SSD&viewfullsite=true). To show two queen bedded rooms in the search, adjust the date range to July 22 to July 24.
+
+- Parking is $7 plus tax per night.
+- Complimentary Express Start Breakfast Bar featuring hot and cold breakfast items including our
+famous cinnamon rolls and pancake machine.
+- Complimentary wireless internet.
+
+#### Fairfield Inn & Suites by Marriott ####
+
+<img src="assets/images/FairfieldInn.png" align="right">
+2956 Mission Street  
+Santa Cruz, CA 95060  
++1-831-420-0777  
+
+Discount rates are: $199/night for a QUEEN, $209/night for a Double QUEEN (no KING rooms were offered). **Cut-off date is June 21, 2019**.
+
+To reserve rooms please contact the hotel directly at +1-831-420-0777. Once you reach a reservations agent, inform the agent that you are calling for the **SSDBM-UCSC** conference. It is also listed as **SSDO** for the group rate code. Either piece of information will allow the agent to make the reservation.
+
+- Free parking.
+
+https://www.marriott.com/hotels/travel/sjccr-fairfield-inn-and-suites-santa-cruz/
+
+#### Hilton Santa Cruz/Scotts Valley ####
+
+<img src="assets/images/HiltonSantaCruz.png" align="right">
+6001 La Madrona Drive  
+Santa Cruz, CA 95060  
++1-831-440-1000  
+
+A discount rate of $189/night is available. **Cut-off date is June 22, 2019.**
+
+To reserve rooms by phone, please call +1-831-440-1000 and press the option for reservations. Be sure to mention the **Group Code UCSSD**.
+
+For online reservations go to [www.santacruzscottsvalley.hilton.com](www.santacruzscottsvalley.hilton.com)  
+
+- Enter the dates of your stay. 
+- Click the “more options” link. 
+- Click the “Add special rate codes” link.
+- Enter **UCSSD** in the “Group Code” field
+- Click the “check availability” button
+
+Please note: the Hilton is about 6.5 miles north of Santa Cruz. However, it is a wonderful hotel situated on Hwy 17, the main route from Santa Cruz to San Jose, and can be very convenient for those who might need to get to the airport quickly. It takes approximately 15 minutes to drive to or from UCSC, depending on the time of day.
+
+- Free self parking.
+
+#### Hyatt Place ####
+
+<img src="assets/images/HyattPlace.png" align="right">
+407 Broadway Ave.  
+Santa Cruz, CA 95060  
++1-831-226-2300  
+www.hyatt.com  
+
+Discount rates are: $213/night for a single or double room. $233/night for a triple or quad room. **Cut-off date is June 1, 2019**.
+
+To reserve rooms by phone, please call +1-888-492-8847 and use the **Group Code G-USOE**. If they need more information, tell them you are with SSDBM.
+
+For online booking go to www.hyatt.com and make the reservation using the same group code.
+
+- You will need to provide a credit card number at the time of booking.
+- Valet parking: $15/night
+
+#### Mission Inn ####
+
+<img src="assets/images/MissionInn.png" align="right">
+2250 Mission Street  
+Santa Cruz, CA 95060  
++1-831-425-5455  
+https://www.missioninnsantacruz.com/  
+
+Discount rates are: $269/night for a QUEEN room, $296/night for a Double QUEEN room, $278/night for a KING room. **Cut-off date is June 22, 2019**.
+
+To reserve rooms, please call +1-831-425-5455 and use the **Group Name SSDBM 2019**.
+
+Each room has:
+
+- High speed wifi
+- Hair Dryer
+- Microwave
+- Iron and ironing board
+- Refrigerator
+- Coffee
+
+- Free, extensive continental breakfast each morning from 7:00-10:00am.
+- Free parking.
+
 ### Conference Venue
 
 ![Entrance of UC Santa Cruz](assets/images/EntranceOfUCSantaCruz.png)
