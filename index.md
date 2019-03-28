@@ -187,7 +187,7 @@ For more information on the Seymour Center, please go to [https://seymourcenter.
 ### Registration
 ### Accommodation
 
-SSDBM 2019 discounted room blocks are available at several local hotels for conference attendees ([interactive map](https://www.google.com/maps/@37.0090678,-122.0146215,14.08z/data=!4m3!11m2!2s_T_8_xJO-1kqW97cjkmmbwbX0ZQQAg!3e3)).
+SSDBM 2019 discounted room blocks are available at several local hotels for conference attendees (interactive map coming soon).
 
 Attendees need to make reservations directly and will be responsible for their own room, tax and incidental charges.
 
