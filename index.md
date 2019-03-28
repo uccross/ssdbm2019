@@ -45,7 +45,8 @@ Gagan Agrawal, Ohio State University
 Peter Baumann, Jacobs University, Bremen  
 Khalid Bellhajahme, University Paris-Dauphine  
 Souvik Bhattacharjee, University of Maryland, College Park  
-Tamas Budavari, Johns Hopkins University  
+Tamas Budavari, Johns Hopkins University
+Amit Chavan, Amazon Web Services  
 Lazlo Doblos, Eötvös Loránd University, Budapest  
 Shawfeng Dong, SLAC National Accelerator Laboratory  
 Ahmed Eldawy, University of California, Riverside  
@@ -59,6 +60,7 @@ Jeff LeFevre, University of California, Santa Cruz
 Ulf Leser, Humboldt-Universität zu Berlin  
 Qing Gary Liu, New Jersey Institute of Technology  
 Marjan Mernik, University of Maribor  
+Hui Miao, University of College Park, Maryland  
 Paolo Missier, Newcastle University  
 Beth Plale, Indiana University, Bloomington  
 Neolkis Polyzotis, Google, Inc.  
