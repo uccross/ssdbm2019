@@ -244,6 +244,8 @@ Discount rates are: $199/night for a QUEEN, $209/night for a Double QUEEN (no KI
 
 To reserve rooms please contact the hotel directly at +1-831-420-0777. Once you reach a reservations agent, inform the agent that you are calling for the **SSDBM-UCSC** conference. It is also listed as **SSDO** for the group rate code. Either piece of information will allow the agent to make the reservation.
 
+The Fairfield Inn cannot accommodate group reservations online, but if you are unable to make your reservation by phone, please contact Lavinia at lpreston@ucsc.edu and she will send a credit card form and tell you how to make a reservation via email.
+
 - Free parking.
 
 https://www.marriott.com/hotels/travel/sjccr-fairfield-inn-and-suites-santa-cruz/
@@ -261,7 +263,7 @@ To reserve rooms by phone, please call +1-831-440-1000 and press the option for 
 
 For online reservations go to [www.santacruzscottsvalley.hilton.com](www.santacruzscottsvalley.hilton.com)  
 
-- Enter the dates of your stay. 
+- Enter the dates of your stay (between July 22 & 25 or the discounted rate will not show up). 
 - Click the “more options” link. 
 - Click the “Add special rate codes” link.
 - Enter **UCSSD** in the “Group Code” field
@@ -283,8 +285,12 @@ Discount rates are: $213/night for a single or double room. $233/night for a tri
 
 To reserve rooms by phone, please call +1-888-492-8847 and use the **Group Code G-USOE**. If they need more information, tell them you are with SSDBM.
 
-For online booking go to www.hyatt.com and make the reservation using the same group code.
+For online booking go to www.hyatt.com and make the reservation as follows:
 
+- Enter *Santa Cruz* for city and the dates you wish to stay  (July 22 through July 26)
+- Click *Special Rates (AAA, Govt, …)*
+- Check *Corporate or Group Code*
+- Enter **G-USOE**, click *Return*, and you should see the room selections
 - You will need to provide a credit card number at the time of booking.
 - Valet parking: $15/night
 
