@@ -79,7 +79,7 @@ K. John Wu, Lawrence Berkeley National Laboratory
 Hongfeng Yu, University of Nebraska, Lincoln  
 Xuechen Zhang, Washington State University  
 Ming Zhao, Arizona State University, Phoenix  
-Qiang Zhi, University of Michigan, Dearborn  
+Qiang Zhu, University of Michigan, Dearborn  
 
 # Call for Contributions
 
