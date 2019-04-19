@@ -380,59 +380,64 @@ Unlike a traditional aquarium, the Seymour Marine Discovery Center takes you beh
 
 Blue Whale skeleton – this 87-foot blue whale skeleton is one of the largest skeletons of any kind, displayed anywhere in the world. When she died in 1979, she washed ashore north of Santa Cruz near Pescadero, and her skeleton was assembled in 1985. For more, see [https://seymourcenter.ucsc.edu/exhibits/outdoor-giants/](https://seymourcenter.ucsc.edu/exhibits/outdoor-giants/)
 
-### Directions
+### Directions: Getting There
 
-The SSDBM 2019 Conference will take place at the Baskin School of Engineering, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA.
+Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. The best routes and driving times can vary significantly depending on day of week and time of day. Use the desktop web browswer version of Google Maps to get access to "Depart at" and "Arrive by" functionality to plan your trip and watch for new route recommendations during your trip.
+ 
+From San Francisco, you should allow a minimum of one and a half hours to drive to Santa Cruz. From San Jose, it normally takes about 45 minutes to drive to campus. It can take longer to drive from either airport if you arrive during afternoon Rush Hour, normally from 3:30 to 5:30pm. 
 
-The conference will be held in Room 180, on the ground floor of the Engineering 2 building, which is located off the Courtyard Area between Engineering 2 and the Baskin Engineering Building (see map below). We will have a tent and registration desk set up outside the room.
+**NOTE ON SUMMER TRAFFIC**: On the weekends, Santa Cruz is a major destination for travelers from the San Francisco Bay Area, and traffic on Highway 17 that travels through the Santa Cruz Mountains from San Jose to Santa Cruz can be extremely congested. If you are driving and arrive on a weekend, please be aware that until about 1:00 or 2:00pm each day, it could take over 2 hours to reach Santa Cruz from San Jose. 
 
-![Map of Courtyard Area](assets/images/MapOfCourtyardArea.png)
+### Getting Around
 
-For additional maps and directions to campus, please go to [https://www.maps.ucsc.edu/](https://www.maps.ucsc.edu/)
+Traffic is also heavy in Santa Cruz itself. Your hotel concierge should be able to suggests good ways to get around town without having to drive and park. Also look for bright red [Jump bicycles](https://www.jump.com/cities/santa-cruz/) that come with battery assist (we recommend bringing a bicycle helmet if you plan to use this mode of transportation). 
 
-**Directions to the UC Santa Cruz campus:** [Google Maps](https://www.google.com/maps) provides great directions to get from either San Francisco or San Jose International Airports. It provides general driving directions from the Bay Area to Santa Cruz and the UCSC Campus. The best routes can vary depending up time of day and corresponding traffic conditions. 
+#### Carpooling ####
 
-From San Francisco, you should allow a minimum of one and a half hours to drive to the University. From San Jose, it normally takes about 45 minutes to drive to campus. It can take longer to drive from either airport if you arrive during afternoon Rush Hour, normally from 3:30 to 5:30pm
+We strongly urge those of you who are driving to consider carpooling with other attendees. Traffic, even in summer, can be heavy on campus and it might be easier and simpler to carpool wherever possible.
 
-**Conference parking:** Parking permits for all three days will be included with attendee registrations. The Core West parking structure is very close to the Engineering 2 building, and spaces will be available for SSDBM attendees.
+With that in mind we have set up a [Google sheet](https://docs.google.com/spreadsheets/d/1wWsHwf46mX9QCpbdaqC_vqum8m4N3d6pIY2v_EdYKQs/edit#gid=0) where you can sign up to offer a ride or request a ride.
 
-![Core West Parking Structure](assets/images/CoreWestParkingStructure.png)
+If you are looking for riders, enter your information for each day in the green “Looking for Riders” sections on the list. If you are looking for a driver, then enter your information for each day in the blue “Looking for Drivers” sections on the list.
 
-**Directions to the Core West Parking Structure and the Basking School of Engineering:** Hwy 17 ends at Business Highway 1 (Mission Street). At that intersection, turn right onto Mission Street and travel approximately 1 mile north to **Bay Street**. Turn right onto Bay St. and drive up to the Main Campus Entrance. Turn left at that intersection onto **Empire Grade**. (see map below). 
+#### Uber & Lyft ####
 
-(Note: starting at the entrance to campus, there will be small black and white signs that say “SSDBM” to help guide you along the way.)
+Alternatively, using [Uber](https://www.uber.com) or [Lyft](https://www.lyft.com/rider/cities/santa-cruz-ca) is another way to get to campus without having to drive yourself.
 
-Follow **Empire Grade** to the **West Entrance** of campus (there is a traffic light there).  Turn right onto
-**Heller Drive** and continue through four stop signs.
+#### Santa Cruz Metro Transit ####
 
-A short distance after the 4th stop sign, turn right into the **Core West Parking Structure** (just
-before the Heller/McLauglin intersection).  There will be a sign at the entrance that directs SSDBM
-Conference attendees to the second or third floor of the parking structure. A parking attendant will be there to give you your parking permit and direct you to a parking area.
+The local public transportation system is also a fine way to get around and has regularly scheduled buses with multiple stops on UC Santa Cruz campus, including "Science Hill (UCSC)" which is where the conference takes place. It costs $2 cash (need to have exact amount) for one ride. You can also order and buy passes [online](https://www.scmtd.com/en/fares/buy-passes-online) ([Fares](https://www.scmtd.com/en/fares/fares), [Map](https://www.scmtd.com/en/routes/schedule/map), [Schedule](https://www.scmtd.com/en/routes/schedule)).
 
-![Map from Campus Entrance to Core West Parking Structure](assets/images/MapWestToCoreWest.png)
+#### UCSC Shuttles ####
 
-**Permits are required for parking (you will get a ticket if you do not display one).**
+In addition to the Santa Cruz Metro buses, UCSC runs [campus shuttle buses](https://taps.ucsc.edu/buses-shuttles/campus-shuttles.html). The shuttles (aka "UCSC Loop Bus") are free and useful for getting around within campus ([Map and Schedule](https://taps.ucsc.edu/pdf/summer-session-transit-2018.pdf)). The bus stop closest to the conference is "Science Hill (UCSC)", the one closest to Physical Sciences and Jack Baskin Engineering buildings near the upper left of the map. Buses operate in both directions and both directions are about the same distance from the campus main entrance.
+
+#### Conference Parking ####
+
+Should you choose to drive to campus, Google Maps driving directions are available for "UCSC Core West Structure". Also, starting at the campus main entrance there will be small black & white signs that say "SSDBM" to help guide you to Core West parking. 
+
+**Parking permits are required for parking (you *will* get a ticket if you do not display one).** 
 
 Parking permits can be picked up at the Core West parking structure each morning of the conference
-between 7:30 and 9:30am. Event parking attendants will meet you on the second or third floor of the
-garage; keep driving until you see them. They will give you a permit to display on your car dashboard and direct you to a parking space. Attendants will have a list of registered attendees, so be prepared to identify yourself
-as an SSDBM participant.
+between **7:30 and 9:30am**. Event parking attendants will meet you on the second or third floor of the
+garage; keep driving until you see them. Attendants will have a list of registered attendees, so be prepared to identify yourself as an SSDBM participant. They will give you a permit to display on your car dashboard and direct you to a parking space.
 
-The parking attendants leave the garage promptly at 9:30 am. If you need a parking permit, but arrive
-after 9:30am or you did not request one when you confirmed your attendance (and therefore are not
-on the parking attendant's list of registered attendees), then instead of entering the CORE WEST
-structure, please continue on HELLER DRIVE and turn right onto MC LAUGHLIN DRIVE. 
-
-Turn left at the stop sign into the Baskin Circle area (see map below). Follow the road around to the curb area, park in the green loading zone and call or text Lavinia at 408-505-4729. DO NOT LEAVE YOUR CAR. If there is
-no space to park, just keep circling or pull over out the way somewhere. Lavinia will quickly send
+**IMPORTANT: *The parking attendants leave the garage promptly at 9:30 am*.** If you need a parking permit, but arrive after 9:30am or you did not request one when you confirmed your attendance (and therefore are not
+on the parking attendant's list of registered attendees), then instead of entering the Core West
+structure, drive to the Baskin Circle (see map below). Follow the road around to the curb area, park in the green loading zone and call or text Lavinia at +1-408-505-4729. **DO NOT LEAVE YOUR CAR.** If there is no space to park, just keep circling or pull over out the way somewhere. Lavinia will quickly send
 someone to you with a permit, after which you can retrace your steps and park in Core West.
 
 After you park, proceed to the North Stairwell and walk across the street to the Baskin Engineering
-Building. Walk through the Baskin Engineering Building and to the courtyard behind it. The registration
+Building. Walk through the Baskin Engineering Building and to the courtyard behind it. The check-in
 desk will be set up next to a big tent.
 
-![Map to Baskin Circle and Registration](assets/images/MapRegistration.png)
+#### Conference Venue ####
 
+The SSDBM 2019 Conference will take place at the Baskin School of Engineering, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA.
+
+The conference will be held in Room 180, on the ground floor of the Engineering 2 building, which is located off the Courtyard Area between Engineering 2 and the Baskin Engineering Building (see map below). We will have a tent and check-in desk set up outside the room.
+
+![Conference Venue Map](assets/images/ConferenceVenueMap.png)
 
 ### About Santa Cruz
 
