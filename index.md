@@ -9,7 +9,7 @@
 [[Conference Organizers]](#conference-organizers) 
 [[Call for Contributions](#call-for-contributions) - [Camera-ready Instructions](#camera-ready-instructions)] 
 [[Program]](#program) 
-[[Information for Participants](#information-for-participants) - [Directions](#directions)] 
+[[Information for Participants](#information-for-participants) - [Directions](#directions-getting-there)] 
 [[Sponsorship]](#sponsorship)
 
 **The 31st International Conference on Scientific and Statistical Database Management will be held in Santa Cruz, CA, USA on July 23-25, 2019.** The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 31st SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation, and, for the first time, reproducibility studies of previous publications. The program of the research track will be supplemented with invited talks and demonstrations. SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management.
@@ -382,15 +382,17 @@ Blue Whale skeleton – this 87-foot blue whale skeleton is one of the largest s
 
 ### Directions: Getting There
 
-Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. The best routes and driving times can vary significantly depending on day of week and time of day. Use the desktop web browswer version of Google Maps to get access to "Depart at" and "Arrive by" functionality to plan your trip and watch for new route recommendations during your trip.
+Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. The best routes and driving times can vary significantly depending on day of week and time of day. Use the desktop web browser version of Google Maps to get access to its "Depart at" and "Arrive by" functionality to plan your trip. Also, during your trip watch for new route recommendations to avoid significant traffic delays.
  
-From San Francisco, you should allow a minimum of one and a half hours to drive to Santa Cruz. From San Jose, it normally takes about 45 minutes to drive to campus. It can take longer to drive from either airport if you arrive during afternoon Rush Hour, normally from 3:30 to 5:30pm. 
-
 **NOTE ON SUMMER TRAFFIC**: On the weekends, Santa Cruz is a major destination for travelers from the San Francisco Bay Area, and traffic on Highway 17 that travels through the Santa Cruz Mountains from San Jose to Santa Cruz can be extremely congested. If you are driving and arrive on a weekend, please be aware that until about 1:00 or 2:00pm each day, it could take over 2 hours to reach Santa Cruz from San Jose. 
 
 ### Getting Around
 
-Traffic is also heavy in Santa Cruz itself. Your hotel concierge should be able to suggests good ways to get around town without having to drive and park. Also look for bright red [Jump bicycles](https://www.jump.com/cities/santa-cruz/) that come with battery assist (we recommend bringing a bicycle helmet if you plan to use this mode of transportation). 
+Traffic is also heavy in Santa Cruz itself. Your hotel concierge should be able to suggests good ways to get around town without having to drive and park. 
+
+#### Bicycling ####
+
+If you are comfortable bicycling, look for bright red [Jump bicycles](https://www.jump.com/cities/santa-cruz/) that come with battery assist, especially helpful when heading the long uphill from downtown to campus. We strongly recommend bringing a bicycle helmet if you plan to use this mode of transportation. 
 
 #### Carpooling ####
 
