@@ -225,10 +225,6 @@ Please note: registration is required in order to get the VISA support letter, a
 
 We will send you your VISA support letter as a PDF via email. 
 
-**Foreign Visitors:** Copies of an ESTA confirmation if you hold a B-1, B-2, WB, or WT visa. Mexican and Canadian visitors who enter the U.S. without a visa must provide a copy of their passport or equivalent travel documentation, plus complete a Certificate of Academic Activity.
-
-**US Permanent Residents:** We will need a copy of both sides of your Resident Alien (green) card.
-
 ### Accommodation
 
 SSDBM 2019 discounted room blocks are available at several local hotels for conference attendees (interactive map coming soon).
