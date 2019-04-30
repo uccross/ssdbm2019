@@ -212,7 +212,7 @@ Registration fees include:
 
 ### Support Letters for Visa ###
 
-If you need a VISA support letter for attending the conference, please send an email to lpreston@ucsc.edu and provide the following information:
+If you need a visa support letter for attending the conference, please send an email to lpreston@ucsc.edu and provide the following information:
 
 * Name (as stated on your passport) and mailing address
 * Residential address
@@ -221,9 +221,9 @@ If you need a VISA support letter for attending the conference, please send an e
 * Business email and website of your organization
 * For authors of accepted papers: title and alphanumeric ID of the paper
 
-Please note: registration is required in order to get the VISA support letter, and the email must be sent from your business email address. 
+Please note: registration is required in order to get the visa support letter, and the email must be sent from your business email address. 
 
-We will send you your VISA support letter as a PDF via email. 
+We will send you your visa support letter as a PDF via email. 
 
 ### Accommodation
 
