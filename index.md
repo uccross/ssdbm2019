@@ -184,7 +184,50 @@ SSDBM attendees will enjoy appetizers and drinks from 5:30 to 6:30 on the Shipwr
 For more information on the Seymour Center, please go to [https://seymourcenter.ucsc.edu](https://seymourcenter.ucsc.edu)
 
 # Information for Participants
+
 ### Registration
+
+Registration begins April 29, 2019 and is required for all participants. 
+
+To register, please go to [https://ssdbm-registration.soe.ucsc.edu/](https://ssdbm-registration.soe.ucsc.edu/)  
+
+In order to avoid double charges, please register only ONCE. 
+
+Regular registration fees are available through July 6, 2019. Late registration will start July 7. You can bring up to three guests to the July 23rd Reception and/or the July 24th Banquet for a fee of $90 *per guest*.
+
+Type of Fee | Dates available | Amount
+--- | --- | ----
+Regular Registration | May 29 through July 6 | $475.00
+Late Registration | July 7 through July 25 | $600.00
+Guest fees for Reception and Banquet | May 29 through July 24 | $90.00 (up to 3 guests)
+
+Registration fees include:
+
+* Participation at all sessions
+* Lunches and breaks during the conference
+* The Welcome Reception on Tuesday Evening, July 23 
+* The Conference Banquet on Wednesday evening, July 24
+
+***Please note: Daily lunches are for full conference registrants only***. If you wish to bring a guest for daily lunch, then they will have to register as a full-price attendee, which will give them access to everything, including daily lunches, the Reception and the Banquet.
+
+#### Support Letters for Visa ####
+
+If you need a VISA support letter for attending the conference, please send an email to lpreston@ucsc.edu and provide the following information:
+
+* Name (as stated on your passport) and mailing address
+* Residential address
+* Date of birth
+* Passport number and country of citizenship
+* Business email and website of your organization
+* For authors of accepted papers: title and alphanumeric ID of the paper
+
+Please note: registration is required in order to get the VISA support letter, and the email must be sent from your business email address. 
+
+We will send you your VISA support letter as a PDF via email. 
+
+**Foreign Visitors:** Copies of an ESTA confirmation if you hold a B-1, B-2, WB, or WT visa. Mexican and Canadian visitors who enter the U.S. without a visa must provide a copy of their passport or equivalent travel documentation, plus complete a Certificate of Academic Activity.
+
+**US Permanent Residents:** We will need a copy of both sides of your Resident Alien (green) card.
 
 ### Accommodation
 
