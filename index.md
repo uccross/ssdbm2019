@@ -199,7 +199,7 @@ Type of Fee | Dates available | Amount
 --- | --- | ----
 Regular Registration | April 29 through July 6 | $475.00
 Late Registration | July 7 through July 25 | $600.00
-Guest fees for Reception and Banquet | May 29 through July 24 | $90.00 (up to 3 guests)
+Guest fees for Reception and Banquet | April 29 through July 24 | $90.00 (up to 3 guests)
 
 Registration fees include:
 
