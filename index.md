@@ -186,12 +186,6 @@ For more information on the Seymour Center, please go to [https://seymourcenter.
 # Information for Participants
 ### Registration
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
 ### Accommodation
 
 SSDBM 2019 discounted room blocks are available at several local hotels for conference attendees (interactive map coming soon).
