@@ -197,7 +197,7 @@ Regular registration fees are available through July 6, 2019. Late registration 
 
 Type of Fee | Dates available | Amount
 --- | --- | ----
-Regular Registration | May 29 through July 6 | $475.00
+Regular Registration | April 29 through July 6 | $475.00
 Late Registration | July 7 through July 25 | $600.00
 Guest fees for Reception and Banquet | May 29 through July 24 | $90.00 (up to 3 guests)
 
@@ -210,7 +210,7 @@ Registration fees include:
 
 ***Please note: Daily lunches are for full conference registrants only***. If you wish to bring a guest for daily lunch, then they will have to register as a full-price attendee, which will give them access to everything, including daily lunches, the Reception and the Banquet.
 
-#### Support Letters for Visa ####
+### Support Letters for Visa ###
 
 If you need a VISA support letter for attending the conference, please send an email to lpreston@ucsc.edu and provide the following information:
 
