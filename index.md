@@ -189,7 +189,7 @@ For more information on the Seymour Center, please go to [https://seymourcenter.
 
 Registration begins April 29, 2019 and is required for all participants. 
 
-To register, please go to [https://ssdbm-registration.soe.ucsc.edu/](https://ssdbm-registration.soe.ucsc.edu/)  
+To register, please go to [SSDBM 2019 Registration](https://ssdbm-registration.soe.ucsc.edu/registration/5).  
 
 In order to avoid double charges, please register only ONCE. 
 
