@@ -212,18 +212,27 @@ Registration fees include:
 
 ### Support Letters for Visa ###
 
-If you need a visa support letter for attending the conference, please send an email to lpreston@ucsc.edu and provide the following information:
+If you need a visa support letter for attending the conference, please send an email to Lavinia Preston, lpreston@ucsc.edu and provide the following information:
 
-* Name (as stated on your passport) and mailing address
+* Name (as stated on your passport)
+* Passport number and country of citizenship
 * Residential address
 * Date of birth
-* Passport number and country of citizenship
-* Business email and website of your organization
-* For authors of accepted papers: title and alphanumeric ID of the paper
+* Business name and email address
 
-Please note: registration is required in order to get the visa support letter, and the email must be sent from your business email address. 
+**Please note: **
+
+* Registration must be completed and paid in full before a Letter of Invitation may be requested.
+* A copy of your registration payment receipt must accompany your request.
+* The email must be sent from your business email address
 
 We will send you your visa support letter as a PDF via email. 
+
+**To find out if you need a visa, please go to** [https://travel.state.gov/content/travel/en/us-visas.html](https://travel.state.gov/content/travel/en/us-visas.html)for general visa application information.
+
+The most common type of visa for conference attendees is the B-1 visa. Go to [https://travel.state.gov/content/travel/en/us-visas/business.html](https://travel.state.gov/content/travel/en/us-visas/business.html) for information on how to apply.
+
+**Please be aware that this process can take several months, so if you need a U.S. visa you are encouraged to research and/or apply as soon as possible.**
 
 ### Accommodation
 
