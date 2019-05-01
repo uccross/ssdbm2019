@@ -220,11 +220,11 @@ If you need a visa support letter for attending the conference, please send an e
 * Date of birth
 * Business name and email address
 
-**Please note: **
+**Please note:**
 
 * Registration must be completed and paid in full before a Letter of Invitation may be requested.
 * A copy of your registration payment receipt must accompany your request.
-* The email must be sent from your business email address
+* The email must be sent from your business email address.
 
 We will send you your visa support letter as a PDF via email. 
 
