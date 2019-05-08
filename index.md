@@ -155,8 +155,89 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 # Program
 ### Proceedings
 ### Accepted Papers
+
+**Note:** Conditionally accepted papers are not listed yet. We will add them as soon as they are fully accepted.
+
+#### Mining and Data Analysis ####
+
+- Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. Dynamap Schema Generation Mapping in the Wild 
+- Uday Kiran. Discovering Spatial High Utility Itemsets in Spatiotemporal Datasets
+- Sebastian Schelter, Ufuk Celebi and Ted Dunning. Efficient Incremental Cooccurrence Analysis for Item-Based Collaborative Filtering
+
+#### Statistical Data Analysis ####
+
+- Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. Minimizing Bias in Estimation of Mututal Information from Data Streams
+- Edouard Fouché and Klemens Böhm. Monte Carlo Dependency Estimation 
+- Luan Tran, Liyue Fan and Cyrus Shahabi. Outlier Detection in Non-stationary Data Streams
+
+#### Data Summarization ####
+
+- Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  Maintaining Wavelet Synopses for Sliding Window Aggregates.
+- Jinho Lee and Frank Liu. An Efficient Graph Compressor Based on Adaptive Prefix Encoding
+- Michael Vollmer, Lukasz Golab, Klemens Böhm and Divesh Srivastava. Informative Summarization of Numeric Data
+
+#### Custom Querying ####
+
+- Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. Answering Keyword Queries Using Effective Subsets
+- Jochem Kuijpers, George H. L. Fletcher, Tobias Lindaaker and Nikolay Yakovets. An Experimental Study of Context-Free Path Query Evaluation Methods
+- Joseph Vinish Dsilva, Florestan De Moor and Bettina Kemme. Keep Your Host Language Object and Also Query it: A Case for SQL Query Support in RDBMS for Host Language Objects
+
+#### Space and time support in database systems ####
+
+- Haoyuan Xing and Gagan Agrawal. Accelerated Array Joining with integrated index value
+- Robert Schuler and Carl Kesselman. A High-level User-oriented Framework for Database Evolution 
+
+Short Papers
+
+1.    Anna Beer, Daniyal Kazempour, Lisa Stephan and Thomas Seidl. LUCK- Linear Correlation Clustering Using Cluster Algorithms and a kNN based Distance Function
+2.    Anna Beer and Thomas Seidl. Graph Ordering and Clustering - A Circular Approach
+3.    Chris Michael, Joseph Macker and Frederick Petry. Towards Generalizing Stochastic Spatiotemporal Graphs for Analyzing Least-Cost Path Stability
+4.    Mohammad Mahdavi and Ziawasch Abedjan. REDS: Estimating the Performance of Error Detection Strategies Based on Dirtiness Profiles
+5.    Rasaq Otunba. Deep Stacked Ensemble Recommender
+6.    Bin Dong, Patrick Frank Heiner Kilian, Xiaocan Li, Fan Guo, Suren Byna and Kesheng Wu. Terabyte-scale Particle Data Analysis: An ArrayUDF Case Study
+7.    Jianjun Liu, Zainab Zolaktaf and Rachel Pottinger. Improvement of SQL Recommendation on Scientific Database
+8.    Glenn Galvizo and Lipyeow Lim. An Experimental Survey of Evaluation Strategies for Constellation Queries 
+9.    Jinghan Meng, Yi-Cheng Tu and Napath Pitaksirianan. Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs
+10.  Akshay Kansal and Francesca Spezzano. SQUID: A Scalable System for Querying, Updating and Indexing Dynamic Graph Databases
+11.  Saheli Ghosh and Ahmed Eldawy. AID: An Index for Interactive Visualization of Big-Spatial Data
+12.  Daniyal Kazempour and Thomas Seidl. On systematic hyperparameter analysis through the example of subspace clustering
+13.  Daniyal Kazempour, Kilian Emmerig, Peer Kröger and Thomas Seidl. Detecting Global Periodic Correlated Clusters in Event Series based on Parameter Space Transform
+
 ### Keynotes
 ### Program Overview
+
+#### Tuesday, July 23 ####
+
+7:45-8:30	| Registration & Breakfast (45 mins)
+8:30-10:00 | Keynote Address (90 mins) 
+10:00-10:30	| Morning Break (30 mins)
+10:30-11:45	| Mining and Data Analysis (75 mins)
+11:45-1:00 | Lunch Break (75 mins)
+1:00-2:15 | Statistical Data Analysis (75 mins)
+2:15-2:35	| Afternoon Break (20 mins)
+2:35-3:45	| Short Paper Presentations (5 mins each)
+5:00-7:00	| Reception at the UCSC Hay Barn
+
+#### Wednesday, July 24 ####
+
+8:30-9:15 | Registration & Breakfast (45 mins)
+9:15-10:45 | Keynote Address (90 mins)
+10:45-11:15 | Morning Break (30 mins)
+11:15-12:30 | Data Summarization (75 mins)
+12:30-1:45 | Lunch Break (75 mins) and Poster Session?
+1:45-3:00	| Custom Querying (75 mins) 
+3:00-4:15	| Poster Session
+5:30-6:30 | Appetizers/drinks at Seymour Center Exhibit Hall and Shipwreck Deck
+6:30-8:30	| Banquet at the UCSC Seymour Center, La Feliz Room
+
+#### Thursday, July 25 ####
+
+7:45-9:00 | Breakfast (75 mins)
+9:00-10:30 | Keynote Address (90 mins)
+10:30-10:50 | Morning Break (20 mins)
+10:50-12:05 | Space and time support in database systems (75 mins)
+12:05-1:20 | Lunch Break (75 mins) 
+
 ### Detailed Program
 ### Social Events
 
