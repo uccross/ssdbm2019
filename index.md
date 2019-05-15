@@ -265,19 +265,7 @@ Magda Balazinska (University of Washington): TBD
 | Luan Tran, Liyue Fan and Cyrus Shahabi. **Outlier Detection in Non-stationary Data Streams**
 2:15-2:35	| Afternoon Break (20 mins)
 2:35-3:45	| **Short Paper Presentations** (5 mins each)
-| 1.    Anna Beer, Daniyal Kazempour, Lisa Stephan and Thomas Seidl. **LUCK- Linear Correlation Clustering Using Cluster Algorithms and a kNN based Distance Function**
-2.    Anna Beer and Thomas Seidl. **Graph Ordering and Clustering - A Circular Approach**
-3.    Chris Michael, Joseph Macker and Frederick Petry. **Towards Generalizing Stochastic Spatiotemporal Graphs for Analyzing Least-Cost Path Stability**
-4.    Mohammad Mahdavi and Ziawasch Abedjan. **REDS: Estimating the Performance of Error Detection Strategies Based on Dirtiness Profiles**
-5.    Rasaq Otunba. **Deep Stacked Ensemble Recommender**
-6.    Bin Dong, Patrick Frank Heiner Kilian, Xiaocan Li, Fan Guo, Suren Byna and Kesheng Wu. **Terabyte-scale Particle Data Analysis: An ArrayUDF Case Study**
-7.    Jianjun Liu, Zainab Zolaktaf and Rachel Pottinger. **Improvement of SQL Recommendation on Scientific Database**
-8.    Glenn Galvizo and Lipyeow Lim. **An Experimental Survey of Evaluation Strategies for Constellation Queries**
-9.    Jinghan Meng, Yi-Cheng Tu and Napath Pitaksirianan. **Generalizing Design of Support Measures for Counting Frequent Patterns in Graphs**
-10.  Akshay Kansal and Francesca Spezzano. **SQUID: A Scalable System for Querying, Updating and Indexing Dynamic Graph Databases**
-11.  Saheli Ghosh and Ahmed Eldawy. **AID: An Index for Interactive Visualization of Big-Spatial Data**
-12.  Daniyal Kazempour and Thomas Seidl. **On systematic hyperparameter analysis through the example of subspace clustering**
-13.  Daniyal Kazempour, Kilian Emmerig, Peer Kröger and Thomas Seidl. **Detecting Global Periodic Correlated Clusters in Event Series based on Parameter Space Transform**
+| See [accepted short papers](#short-papers).
 4:30-5:00 | Shuttle service to UCSC Hay Barn
 5:00-7:00	| **Reception at the UCSC Hay Barn**
 7:00-7:30 | Shuttle service back to Core West Parking
