@@ -207,7 +207,9 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 ### Keynotes ###
 
-Magda Balazinska (University of Washington): TBD
+Magda Balazinska (University of Washington)  
+Susan Davidson (University of Pennsylvania)  
+Alok Chaudhary (Northwestern University)
 
 ### Program Overview
 
