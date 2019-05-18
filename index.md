@@ -38,7 +38,7 @@ To contact any of the chairs, please use [ssdbm19@easychair.org](mailto:ssdbm19@
 ### Steering Committee
 [Arie Shoshani](https://sdm.lbl.gov/~arie/), Lawrence Berkeley National Laboratory (chair)  
 [Torben Bach Pedersen](http://people.cs.aau.dk/~tbp/), Aalborg University  
-[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/magda), University of Washington  
+[Magdalena Balazinska](https://www.cs.washington.edu/people/faculty/Magdalena), University of Washington  
 [Amarnath Gupta](http://www.sdsc.edu/~gupta/), University of California San Diego  
 [Ioana Manolescu](http://pages.saclay.inria.fr/ioana.manolescu/), Inria-Paris  
 
@@ -207,7 +207,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 ### Keynotes ###
 
-Magda Balazinska (University of Washington)  
+Magdalena Balazinska (University of Washington)  
 Susan Davidson (University of Pennsylvania)  
 Alok Chaudhary (Northwestern University)
 
@@ -216,7 +216,7 @@ Alok Chaudhary (Northwestern University)
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address: Magda Balazinska (University of Washington)** (90 mins) 
+8:30-10:00 | **Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 11:45-1:00 | Lunch Break (75 mins)
@@ -254,7 +254,7 @@ Alok Chaudhary (Northwestern University)
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address: Magda Balazinska (University of Washington)** (90 mins) 
+8:30-10:00 | **Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
