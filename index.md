@@ -214,7 +214,7 @@ Magda Balazinska (University of Washington): TBD
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address** (90 mins) 
+8:30-10:00 | **Keynote Address: Magda Balazinska (University of Washington)** (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 11:45-1:00 | Lunch Break (75 mins)
@@ -228,7 +228,7 @@ Magda Balazinska (University of Washington): TBD
 #### Wednesday, July 24 ####
 
 8:30-9:15 | Registration & Breakfast (45 mins)
-9:15-10:45 | **Keynote Address** (90 mins)
+9:15-10:45 | **Keynote Address: Susan Davidson (University of Pennsylvania)** (90 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 12:30-1:45 | Lunch Break (75 mins) and Poster Session?
@@ -242,7 +242,7 @@ Magda Balazinska (University of Washington): TBD
 #### Thursday, July 25 ####
 
 8:15-9:00 | Breakfast (45 mins)
-9:00-10:30 | **Keynote Address** (90 mins)
+9:00-10:30 | **Keynote Address: Alok Chaudhary (Northwestern University)** (90 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Space and time support in database systems** (75 mins)
 12:05-1:20 | Lunch Break (75 mins) 
@@ -252,7 +252,7 @@ Magda Balazinska (University of Washington): TBD
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address** (90 mins) 
+8:30-10:00 | **Keynote Address: Magda Balazinska (University of Washington)** (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
@@ -273,7 +273,7 @@ Magda Balazinska (University of Washington): TBD
 #### Wednesday, July 24 ####
 
 8:30-9:15 | Registration & Breakfast (45 mins)
-9:15-10:45 | **Keynote Address** (90 mins)
+9:15-10:45 | **Keynote Address: Susan Davidson (University of Pennsylvania)** (90 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
@@ -294,7 +294,7 @@ Magda Balazinska (University of Washington): TBD
 #### Thursday, July 25 ####
 
 8:15-9:00 | Breakfast (45 mins)
-9:00-10:30 | **Keynote Address** (90 mins)
+9:00-10:30 | **Keynote Address: Alok Chaudhary (Northwestern University)** (90 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Space and time support in database systems** (75 mins)
 | Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
