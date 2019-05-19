@@ -208,19 +208,19 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### Magdalena Balazinska (University of Washington) ####
 
-<img src="https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/magda_sm.jpg" align="right">
+<img src="https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/magda_sm.jpg" align="right" border="5">
 
 Magdalena Balazinska is a Professor in the Paul G. Allen School of Computer Science and Engineering at the University of Washington and the Director of the University of Washington data science institute called eScience. She is also the Associate Vice Provost for Data Science and the director of the Advanced Data Science PhD Option. Magdalena's research interests are in the field of database management systems. Her current research focuses on data management for data science, big data systems, cloud computing, and image and video analytics (including data management for VR/AR). Magdalena holds a Ph.D. from the Massachusetts Institute of Technology (2006). She is a Microsoft Research New Faculty Fellow (2007), received the inaugural VLDB Women in Database Research Award (2016), an ACM SIGMOD Test-ofTime Award (2017), an NSF CAREER Award (2009), a 10-year most influential paper award (2010), two Google Research Awards (2011 and 2018), an HP Labs Research Innovation Award (2009 and 2010), a Rogel Faculty Support Award (2006), a Microsoft Research Graduate Fellowship (2003-2005), and multiple best-paper awards.
 
 #### Susan Davidson (University of Pennsylvania) ####
 
-<img src="http://www.cis.upenn.edu/~susan//Davidson2010.jpg" align="right">
+<img src="http://www.cis.upenn.edu/~susan//Davidson2010.jpg" align="right" border="5" width="160">
 
 Dr. Susan Davidson is Weiss Professor of Computer and Information Science at the University of Pennsylvania. Her recent leadership roles and awards include Chair, Board of Directors, CRA; Chair, CIS; Member, CCC; Member, VLDB Endowment Board; Deputy Dean, SEAS; co-Founder, Greater Philadelphia Bioinformatics Alliance (GPBA); Founding co-Director, Center for Bioinformatics; Fulbright Scholar and Hitachi Chair, INRIA-GEMO. Her research interests are in Databases, including data models and languages, complex object systems, semistructured data and XML, database transformations, data integration, data warehousing, transactions and updates, constraints, data cleaning, data reconciliation, data citation, and Bioinformatics, including biomedical databases, workflow systems, and data provenance. Prof. Susan Davidson holds a Ph.D. in Computer Science from Princeton University (1982). 
 
 #### Alok Chaudhary (Northwestern University) ####
 
-<img src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok.jpg" align="right">
+<img src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok.jpg" align="right" border="5" width="160">
 
 Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science. Prof. Alok Choudhary's research over the last decades focused on big data science, supercomputing, scalable data mining, Machine Learning and their applications in sciences (e.g. climate understanding, astrophysics, cosmology, designing materials etc.), medicine (e.g, understanding diseases causes, outcome predictions, drug design, surgeries etc.) and business applications (e.g, business intelligence, marketing, advertising). Dr. Alok Choudhary has published more than 400 papers in various journals and international conferences and has graduated 40+ PhD students, including 10 women PhDs, which is one of the highest in the world. He holds several patents. His papers have received the best paper awards in many conferences. He has given keynotes in almost all major international conferences in his fields of, and given more than 50 invited talks at conferences, businesses and universities. Dr. Choudhary’s work has also appeared in main stream media including New York Times, Chicago Tribune, The Telegraph, The Investor Business Daily, ABC, NPR, PBS and many international media outlets all over the world. Dr. Alok Choudhary is the founder, chairman and chief scientist of 4C insights. Prof. Alok Chaudhary holds a Ph.D. in Computer Engineering from the University of Illinois, Urbana-Champaign.
 
