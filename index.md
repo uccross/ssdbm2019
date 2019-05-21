@@ -293,7 +293,7 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
 | Jinho Lee and Frank Liu. **An Efficient Graph Compressor Based on Adaptive Prefix Encoding**
 | Michael Vollmer, Lukasz Golab, Klemens Böhm and Divesh Srivastava. **Informative Summarization of Numeric Data**
-12:30-1:45 | Lunch Break (75 mins) and Poster Session?
+12:30-1:45 | Lunch Break (75 mins)
 1:45-3:00	| **Custom Querying** (75 mins) 
 | Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. **Answering Keyword Queries Using Effective Subsets**
 | Jochem Kuijpers, George H. L. Fletcher, Tobias Lindaaker and Nikolay Yakovets. **An Experimental Study of Context-Free Path Query Evaluation Methods**
@@ -639,6 +639,8 @@ someone to you with a permit, after which you can retrace your steps and park in
 After you park, proceed to the North Stairwell and walk across the street to the Baskin Engineering
 Building. Walk through the Baskin Engineering Building and to the courtyard behind it. The check-in
 desk will be set up next to a big tent.
+
+![Conference Parking Map](assets/images/SSDBMParking.png)
 
 #### Conference Venue ####
 
