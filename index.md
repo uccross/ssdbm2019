@@ -187,7 +187,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Space and time support in database systems ####
 
 - Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
-- Robert Schuler and Carl Kesselman. A** High-level User-oriented Framework for Database Evolution** 
+- Robert Schuler and Carl Kesselman. **A High-level User-oriented Framework for Database Evolution** 
 
 #### Short Papers ####
 
