@@ -158,8 +158,6 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 ### Proceedings
 ### Accepted Papers
 
-**Note:** Conditionally accepted papers are not listed yet. We will add them as soon as they are fully accepted.
-
 #### Mining and Data Analysis ####
 
 - Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
@@ -188,6 +186,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 - Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
 - Robert Schuler and Carl Kesselman. **A High-level User-oriented Framework for Database Evolution** 
+- Maximilian Schüle, Lukas Karnowski, Josef Schmeißer, Benedikt Kleiner, Alfons Kemper and Thomas Neumann. **Versioning in Main-Memory Database Systems: From MusauesDB to TardisDB**
 
 #### Short Papers ####
 
@@ -314,6 +313,7 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 10:50-12:05 | **Space and time support in database systems** (75 mins)
 | Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
 | Robert Schuler and Carl Kesselman. **A High-level User-oriented Framework for Database Evolution** 
+| Maximilian Schüle, Lukas Karnowski, Josef Schmeißer, Benedikt Kleiner, Alfons Kemper and Thomas Neumann. **Versioning in Main-Memory Database Systems: From MusauesDB to TardisDB**
 12:05-1:20 | Lunch Break (75 mins) 
 
 ### Social Events
