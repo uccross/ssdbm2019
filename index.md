@@ -521,7 +521,6 @@ Each room has:
 - Iron and ironing board
 - Refrigerator
 - Coffee
-
 - Free, extensive continental breakfast each morning from 7:00-10:00am.
 - Free parking.
 
@@ -589,7 +588,7 @@ Blue Whale skeleton – this 87-foot blue whale skeleton is one of the largest s
 
 ### Directions: Getting There
 
-Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. Google Maps does a reasonable job finding the fastest route to Santa Cruz. However, the best routes and driving times can vary significantly depending on day of week and time of day. So when you plan your trip, we recommend the desktop web browser version of Google Maps to get access to its "Depart at" and "Arrive by" functionality. Also, during your trip watch for new route recommendations to avoid significant traffic delays.
+We recommend to use the most direct flight to San Jose (SJC, closest), San Francisco (SFO), or Oakland (OAK) International Airports and then rent a car to get to Santa Cruz. Google Maps does a reasonable job finding the fastest route to Santa Cruz. However, the best routes and driving times can vary significantly depending on day of week and time of day. So when you plan your trip in advance, we recommend the desktop web browser version of Google Maps to get access to its "Depart at" and "Arrive by" functionality. Also, during your trip watch for new route recommendations due to accidents to avoid significant traffic delays.
  
 **NOTE ON SUMMER TRAFFIC**: On the weekends, Santa Cruz is a major destination for travelers from the San Francisco Bay Area, and traffic on Highway 17 that travels through the Santa Cruz Mountains from San Jose to Santa Cruz can be extremely congested. If you are driving and arrive on a weekend, please be aware that until about 1:00 or 2:00pm each day, it could take over 2 hours to reach Santa Cruz from San Jose. 
 
@@ -629,7 +628,7 @@ Should you choose to drive to campus, Google Maps driving directions are availab
 
 Parking permits can be picked up at the Core West parking structure each morning of the conference
 between **7:30 and 9:30am**. Event parking attendants will meet you on the second floor of the
-garage; keep driving until you see them. Attendants will have a list of registered attendees, so be prepared to identify yourself as an SSDBM participant. They will give you a permit to display on your car dashboard and direct you to a parking space. See map below for details about how to get to Core West parking as wel as where to park for [the Hay Barn reception on July 23](#social-events).
+garage; keep driving until you see them. Attendants will have a list of registered attendees, so be prepared to identify yourself as an SSDBM participant. They will give you a permit to display on your car dashboard and direct you to a parking space. See map below for details about how to get to Core West parking as well as where to park for [the Hay Barn reception on July 23](#social-events).
 
 **IMPORTANT: *The parking attendants leave the garage promptly at 9:30 am*.** If you need a parking permit, but arrive after 9:30am or you did not request one when you confirmed your attendance (and therefore are not
 on the parking attendant's list of registered attendees), then instead of entering the Core West
