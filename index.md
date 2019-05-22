@@ -589,7 +589,7 @@ Blue Whale skeleton – this 87-foot blue whale skeleton is one of the largest s
 
 ### Directions: Getting There
 
-Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. The best routes and driving times can vary significantly depending on day of week and time of day. Use the desktop web browser version of Google Maps to get access to its "Depart at" and "Arrive by" functionality to plan your trip. Also, during your trip watch for new route recommendations to avoid significant traffic delays.
+Google Maps provides the best directions to get from San Jose (SJC, closest), San Francisco (SFO), and Oakland (OAK) International Airports to Santa Cruz. We recommend to use the most direct flight to any of these three airports and then rent a car to get to Santa Cruz. Google Maps does a reasonable job finding the fastest route to Santa Cruz. However, the best routes and driving times can vary significantly depending on day of week and time of day. So when you plan your trip, we recommend the desktop web browser version of Google Maps to get access to its "Depart at" and "Arrive by" functionality. Also, during your trip watch for new route recommendations to avoid significant traffic delays.
  
 **NOTE ON SUMMER TRAFFIC**: On the weekends, Santa Cruz is a major destination for travelers from the San Francisco Bay Area, and traffic on Highway 17 that travels through the Santa Cruz Mountains from San Jose to Santa Cruz can be extremely congested. If you are driving and arrive on a weekend, please be aware that until about 1:00 or 2:00pm each day, it could take over 2 hours to reach Santa Cruz from San Jose. 
 
@@ -628,8 +628,8 @@ Should you choose to drive to campus, Google Maps driving directions are availab
 **Parking permits are required for parking (you *will* get a ticket if you do not display one).** 
 
 Parking permits can be picked up at the Core West parking structure each morning of the conference
-between **7:30 and 9:30am**. Event parking attendants will meet you on the second or third floor of the
-garage; keep driving until you see them. Attendants will have a list of registered attendees, so be prepared to identify yourself as an SSDBM participant. They will give you a permit to display on your car dashboard and direct you to a parking space.
+between **7:30 and 9:30am**. Event parking attendants will meet you on the second floor of the
+garage; keep driving until you see them. Attendants will have a list of registered attendees, so be prepared to identify yourself as an SSDBM participant. They will give you a permit to display on your car dashboard and direct you to a parking space. See map below for details about how to get to Core West parking as wel as where to park for [the Hay Barn reception on July 23](#social-events).
 
 **IMPORTANT: *The parking attendants leave the garage promptly at 9:30 am*.** If you need a parking permit, but arrive after 9:30am or you did not request one when you confirmed your attendance (and therefore are not
 on the parking attendant's list of registered attendees), then instead of entering the Core West
@@ -640,8 +640,6 @@ After you park, proceed to the North Stairwell and walk across the street to the
 Building. Walk through the Baskin Engineering Building and to the courtyard behind it. The check-in
 desk will be set up next to a big tent.
 
-![Conference Parking Map](assets/images/SSDBMParking.png)
-
 #### Conference Venue ####
 
 The SSDBM 2019 Conference will take place at the Baskin School of Engineering, University of California, Santa Cruz, 1156 High Street, Santa Cruz, CA.
@@ -649,6 +647,8 @@ The SSDBM 2019 Conference will take place at the Baskin School of Engineering, U
 The conference will be held in Room 180, on the ground floor of the Engineering 2 building, which is located off the Courtyard Area between Engineering 2 and the Baskin Engineering Building (see map below). We will have a tent and check-in desk set up outside the room.
 
 ![Conference Venue Map](assets/images/ConferenceVenueMap.png)
+
+![Conference Parking Map](assets/images/SSDBMParking.png)
 
 ### About Santa Cruz
 
