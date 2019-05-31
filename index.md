@@ -390,7 +390,7 @@ If you need a visa support letter for attending the conference, please send an e
 
 We will send you your visa support letter as a PDF via email. 
 
-**To find out if you need a visa, please go to** [https://travel.state.gov/content/travel/en/us-visas.html](https://travel.state.gov/content/travel/en/us-visas.html)for general visa application information.
+**To find out if you need a visa, please go to** [https://travel.state.gov/content/travel/en/us-visas.html](https://travel.state.gov/content/travel/en/us-visas.html) for general visa application information.
 
 The most common type of visa for conference attendees is the B-1 visa. Go to [https://travel.state.gov/content/travel/en/us-visas/business.html](https://travel.state.gov/content/travel/en/us-visas/business.html) for information on how to apply.
 
