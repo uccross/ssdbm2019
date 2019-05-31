@@ -339,6 +339,10 @@ Through our breathtaking seaside learning center, we bring the adventures and ex
 The Center offers a deeper dive into the research conducted at Long Marine Lab and a chance for everyone to find their inner scientist through rich experiential learning programs including school field-trips, summer youth programs, Science Sundays, volunteer opportunities, internships, and more.
 SSDBM attendees will enjoy appetizers and drinks from 5:30 to 6:30 on the Shipwreck Deck overlooking the ocean. The exhibits will be open just for us and docents will be available at the seawater table. A buffet dinner will follow from 6:30-8:30 in the La Feliz Room.
 
+SSDBM guests will not be able to enter the Seymour Center before 5:30pm. However, for those who arrive early, there is much to see around the outside of the center, including a wonderful cliff walk with amazing views of the Monterey Bay. The map below shows the various trails around the Seymour Center.
+
+![Seymour Marine Discovery Center Map](assets/images/SeymourCenterMap.png)
+
 For more information on the Seymour Center, please go to [https://seymourcenter.ucsc.edu](https://seymourcenter.ucsc.edu)
 
 # Information for Participants
@@ -576,7 +580,7 @@ The newly constructed Coastal Biology Building is home to UCSC's department of E
 
 The Seymour Marine Discovery Center is open to the public. Visitors may learn about marine life in Monterey Bay and the Pacific through aquaria and other exhibits, including the skeleton of an 87-foot blue whale. Tours offer glimpses of research projects involving bottle-nosed dolphins, California sea lions, sea otters, elephant seals, and harbor seals. For more information, call 831-459-3800 or visit the [Seymour Center web site](https://www2.ucsc.edu/seymourcenter).
 
-_The SSDBM Banquet will be held at the Seymour Marine Discovery Center on July 24th. At that time the Exhibit Hall will be open to SSDBM guests **only** from 5:30-6:30pm. Docents will be available at the Seawater Table to talk about the marine life and the uniqueness of the Monterey Bay._
+_The SSDBM Banquet will be held at the Seymour Marine Discovery Center on July 24th. At that time the Exhibit Hall will be open to SSDBM guests **exclusively** from 5:30-6:30pm. Docents will be available at the Seawater Table to talk about the marine life and the uniqueness of the Monterey Bay._
 
 ![Seymour Marine Discovery Center Exhibit](assets/images/SeymourMarineDiscoveryCenterExhibit.png)
 
