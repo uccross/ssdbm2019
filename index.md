@@ -228,26 +228,26 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins) 
+8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 11:45-1:00 | Lunch Break (75 mins)
 1:00-2:15 | **Statistical Data Analysis** (75 mins)
-2:15-2:35	| Afternoon Break (20 mins)
-2:35-3:45	| **Short Paper Presentations** (5 mins each)
+2:15-2:45	| Afternoon Break (30 mins)
+2:45-3:55	| **Short Paper Presentations** (5 mins each)
 4:30-5:00 | Shuttle service to UCSC Hay Barn
 5:00-7:00	| **Reception at the UCSC Hay Barn**
 7:00-7:30 | Shuttle service back to Core West Parking
 
 #### Wednesday, July 24 ####
 
-8:30-9:15 | Registration & Breakfast (45 mins)
-9:15-10:45 | **Keynote Address: Susan Davidson (University of Pennsylvania)** (90 mins)
+8:45-9:30 | Registration & Breakfast (45 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 12:30-1:45 | Lunch Break (75 mins) and Poster Session?
 1:45-3:00	| **Custom Querying** (75 mins) 
-3:00-4:15	| **Poster Session**
+3:00-4:15	| **Poster Session** (75 mins)
 5:00-5:30 | Shuttle service to UCSC Seymour Center
 5:30-6:30 | **Appetizers/drinks at Seymour Center Exhibit Hall and Shipwreck Deck**
 6:30-9:00	| **Banquet at the UCSC Seymour Center, La Feliz Room**
@@ -255,8 +255,8 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 
 #### Thursday, July 25 ####
 
-8:15-9:00 | Breakfast (45 mins)
-9:00-10:30 | **Keynote Address: Alok Chaudhary (Northwestern University)** (90 mins)
+8:45-9:20 | Breakfast (35 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Chaudhary (Northwestern University)** (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Space and time support in database systems** (75 mins)
 12:05-1:20 | Lunch Break (75 mins) 
@@ -277,8 +277,8 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 | Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. **Minimizing Bias in Estimation of Mututal Information from Data Streams**
 | Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation** 
 | Luan Tran, Liyue Fan and Cyrus Shahabi. **Outlier Detection in Non-stationary Data Streams**
-2:15-2:35	| Afternoon Break (20 mins)
-2:35-3:45	| **Short Paper Presentations** (5 mins each)
+2:15-2:45	| Afternoon Break (30 mins)
+2:45-3:55	| **Short Paper Presentations** (5 mins each)
 | See [accepted short papers](#short-papers).
 4:30-5:00 | Shuttle service to UCSC Hay Barn
 5:00-7:00	| **Reception at the UCSC Hay Barn**
@@ -286,8 +286,8 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 
 #### Wednesday, July 24 ####
 
-8:30-9:15 | Registration & Breakfast (45 mins)
-9:15-10:45 | **Keynote Address: Susan Davidson (University of Pennsylvania)** (90 mins)
+8:45-9:30 | Registration & Breakfast (45 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
@@ -307,8 +307,8 @@ Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer 
 
 #### Thursday, July 25 ####
 
-8:15-9:00 | Breakfast (45 mins)
-9:00-10:30 | **Keynote Address: Alok Chaudhary (Northwestern University)** (90 mins)
+8:45-9:20 | Breakfast (35 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Chaudhary (Northwestern University)** (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Space and time support in database systems** (75 mins)
 | Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
@@ -328,7 +328,7 @@ The original Hay Barn was completely disassembled and renovated in 2015 to serve
 
 The reconstructed Hay Barn incorporates some of the historic barn's heavy timbers and siding, and features traditional mortise-and-tenon framing juxtaposed with modern materials and contemporary design, to achieve a rustic yet visually distinct building. The award-winning result is a beautiful and dramatic signature building with a soaring, spacious interior offering a unique setting for weddings, banquets, concerts, conferences, and much more. See [https://cowellhaybarn.ucsc.edu/](https://cowellhaybarn.ucsc.edu/) for more information about the Hay Barn and its history.
 
-#### July 24, 5:30-8:30pm – Reception & Banquet at the Seymour Marine Discovery Center ####
+#### July 24, 5:30-9:00pm – Reception & Banquet at the Seymour Marine Discovery Center ####
 
 ![Seymour Marine Discovery Center](assets/images/SeymourMarineDiscoveryCenter.png)
 
@@ -337,7 +337,7 @@ The Seymour Marine Discovery Center is a community-supported marine science educ
 Through our breathtaking seaside learning center, we bring the adventures and explorations of ocean science to life. Powered by the Long Marine Laboratory, a world-renowned university research facility, the Seymour Marine Discovery Center offers hands-on immersion into the world of ocean exploration and discovery. With a 20,000-square-foot visitor center, guests can touch a shark, explore the latest discoveries in ocean science, and take in the spectacular Monterey Bay, called the “Serengeti of the Sea,” for its incredible diversity of marine life.
 
 The Center offers a deeper dive into the research conducted at Long Marine Lab and a chance for everyone to find their inner scientist through rich experiential learning programs including school field-trips, summer youth programs, Science Sundays, volunteer opportunities, internships, and more.
-SSDBM attendees will enjoy appetizers and drinks from 5:30 to 6:30 on the Shipwreck Deck overlooking the ocean. The exhibits will be open just for us and docents will be available at the seawater table. A buffet dinner will follow from 6:30-8:30 in the La Feliz Room.
+SSDBM attendees will enjoy appetizers and drinks from 5:30pm to 6:30pm on the Shipwreck Deck overlooking the ocean. The exhibits will be open just for us and docents will be available at the seawater table. A buffet dinner will follow from 6:30pm to 9:00pm in the La Feliz Room.
 
 SSDBM guests will not be able to enter the Seymour Center before 5:30pm. However, for those who arrive early, there is much to see around the outside of the center, including a wonderful cliff walk with amazing views of the Monterey Bay. The map below shows the various trails around the Seymour Center.
 
