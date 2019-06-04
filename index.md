@@ -4,7 +4,7 @@
 </div>
 ![UCSC and Engineering 2](assets/images/UCSCAndEngineering2.png)
 
-**Please make hotel reservations now. The first reservation block expires June 1!**
+**Please make hotel reservations now. Most reservation blocks expire June 21!**
 
 # Welcome to SSDBM 2019 #
 
