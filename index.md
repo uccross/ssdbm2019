@@ -492,7 +492,7 @@ Santa Cruz, CA 95060
 +1-831-226-2300  
 www.hyatt.com  
 
-Discount rates are: $213/night for a single or double room. $233/night for a triple or quad room. **Cut-off date is June 1, 2019**.
+Discount rates are: $213/night for a single or double room. $233/night for a triple or quad room. **Cut-off date is ~~June 1~~ June 22, 2019**.
 
 To reserve rooms by phone, please call +1-888-492-8847 and use the **Group Code G-USOE**. If they need more information, tell them you are with SSDBM.
 
