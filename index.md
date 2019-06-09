@@ -246,7 +246,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Wednesday, July 24 ####
 
 8:45-9:30 | Registration & Breakfast (45 mins)
-9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** (75 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** [Publication in the Era of Big Data Science](#keynotes) (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 12:30-1:45 | Lunch Break (75 mins) and Poster Session?
@@ -291,7 +291,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Wednesday, July 24 ####
 
 8:45-9:30 | Registration & Breakfast (45 mins)
-9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#keynotes)**
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#keynotes) (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
