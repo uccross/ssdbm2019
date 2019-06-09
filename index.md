@@ -9,8 +9,7 @@
 # Welcome to SSDBM 2019 #
 
 [[Conference Organizers]](#conference-organizers) 
-[[Call for Contributions](#call-for-contributions) - [Camera-ready Instructions](#camera-ready-instructions)] 
-[[Program]](#program) 
+[[Program](#program) - [Keynotes](#keynotes) - [Full Agenda](#full-program) - [Social Events](#social-events)]
 [[Information for Participants](#information-for-participants) - [Registration](#registration) - [**Accommodation**](#accommodation) - [Directions](#directions-getting-there)] 
 [[Sponsorship]](#sponsorship)
 
