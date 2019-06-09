@@ -239,7 +239,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 2:15-2:45	| Afternoon Break (30 mins)
 2:45-3:55	| **Short Paper Presentations** (5 mins each)
 4:30-5:00 | Shuttle service to UCSC Hay Barn
-5:00-7:00	| **Reception at the UCSC Hay Barn**
+5:00-7:00	| **[Reception at the UCSC Hay Barn](#social-events)**
 7:00-7:30 | Shuttle service back to Core West Parking
 
 #### Wednesday, July 24 ####
@@ -252,8 +252,8 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 1:45-3:00	| **Custom Querying** (75 mins) 
 3:00-4:15	| **Poster Session** (75 mins)
 5:00-5:30 | Shuttle service to UCSC Seymour Center
-5:30-6:30 | **Appetizers/drinks at Seymour Center Exhibit Hall and Shipwreck Deck**
-6:30-9:00	| **Banquet at the UCSC Seymour Center, La Feliz Room**
+5:30-6:30 | **[Appetizers/drinks at Seymour Center Exhibit Hall and Shipwreck Deck](#social-events)**
+6:30-9:00	| **[Banquet at the UCSC Seymour Center, La Feliz Room](#social-events)**
 9:00-9:30 | Shuttle service back to Core West Parking
 
 #### Thursday, July 25 ####
