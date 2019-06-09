@@ -333,7 +333,7 @@ The reconstructed Hay Barn incorporates some of the historic barn's heavy timber
 
 #### July 24, 5:30-9:00pm – Reception & Banquet at the Seymour Marine Discovery Center ####
 
-![Seymour Marine Discovery Center](assets/images/SeymourMarineDiscoveryCenter.png)
+![Seymour Marine Discovery Center](assets/images/SMDC-from-Bay.jpg)
 
 The Seymour Marine Discovery Center is a community-supported marine science education center of the University of California, Santa Cruz. It resides on the UC Santa Cruz Coastal Science Campus, a dynamic hub for research, education, and policy programs that address coastal and ocean conservation and management issues. Here, some of the world’s best coastal and marine scientists, government and non-government experts, and public education leaders create synergies that result in discovery and effective conservation solutions. The Center in the public face of this work.
 
