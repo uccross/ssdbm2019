@@ -213,11 +213,11 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### Susan Davidson (University of Pennsylvania) ####
 
+<img src="http://www.cis.upenn.edu/~susan//Davidson2010.jpg" align="right" border="5" width="160">
+
 **Title:** Publication in the Era of Big Data Science
 
 **Abstract:** Scientific research results are increasingly being published in online datasets and in code repositories.  Since the future of open science is driven by people being willing to share such information, this raises the question of how these new research products should be cited so that their creators can be given appropriate credit.    Although this is well understood in the context of conventional publications (e.g. books and articles), principles and standards  for data and software citation are only just emerging.    However, these important standards are unlikely to be used unless the process of extracting information/code is coupled with that of providing a citation for it. In this talk, I will focus initially on complex, structured, evolving datasets, and will discuss how to automatically generate citations to data extracted by a query.  I will then discuss automating citation of open-source software in Git-based platforms.
-
-<img src="http://www.cis.upenn.edu/~susan//Davidson2010.jpg" align="right" border="5" width="160">
 
 **Bio:** Dr. Susan Davidson is Weiss Professor of Computer and Information Science at the University of Pennsylvania. Her recent leadership roles and awards include Chair, Board of Directors, CRA; Chair, CIS; Member, CCC; Member, VLDB Endowment Board; Deputy Dean, SEAS; co-Founder, Greater Philadelphia Bioinformatics Alliance (GPBA); Founding co-Director, Center for Bioinformatics; Fulbright Scholar and Hitachi Chair, INRIA-GEMO. Her research interests are in Databases, including data models and languages, complex object systems, semistructured data and XML, database transformations, data integration, data warehousing, transactions and updates, constraints, data cleaning, data reconciliation, data citation, and Bioinformatics, including biomedical databases, workflow systems, and data provenance. Prof. Susan Davidson holds a Ph.D. in Computer Science from Princeton University (1982). 
 
@@ -270,8 +270,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins)
-| **Title:** [Publication in the Era of Big Data Science](#keynotes)
+8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington)** 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
@@ -292,7 +291,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Wednesday, July 24 ####
 
 8:45-9:30 | Registration & Breakfast (45 mins)
-9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** (75 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#keynotes)**
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
