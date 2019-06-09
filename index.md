@@ -323,7 +323,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### July 23, 5:00-7:00pm – Reception at the historic Cowell Hay Barn on the UCSC Campus ####
 
-![Cowell Ranch Hay Barn](assets/images/CowellRanchHayBarn.png)
+![Cowell Ranch Hay Barn](assets/images/CowellRanchHayBarnOceanView.png)
 
 The original Cowell Ranch Hay Barn was built in the early 1860s as part of the Cowell Lime Works operation. The Hay Barn was an integral part of the Cowell Ranch, housing feed and the animals that hauled logs, limestone, and finished lime. Today the Hay Barn and the many nearby historic structures from the lime works period are part of the Cowell Lime Works Historic District.
 
