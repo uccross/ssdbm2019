@@ -208,6 +208,10 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 <img src="https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/magda_sm.jpg" align="right" border="5">
 
+**Title:** The LightDB Video Database Management System
+
+**Abstract:** Video data management has recently re-emerged as an active research area due to advances in machine learning and graphics hardware, as well as the emergence of applications such as adaptive streaming, object detection, and virtual reality. In this talk, we start with a review of the key requirements of modern video data management and analytics applications. We then present Visual Road, a new benchmark that we developed to assess video database systems on the needs of those modern applications. Finally, we dive into the details of LightDB, a new system that we are building at the University of Washington for the storage, retrieval, and analysis of video databases, including overlapping videos and 360-degree videos.
+
 **Bio:** Magdalena Balazinska is a Professor in the Paul G. Allen School of Computer Science and Engineering at the University of Washington and the Director of the University of Washington data science institute called eScience. She is also the Associate Vice Provost for Data Science and the director of the Advanced Data Science PhD Option. Magdalena's research interests are in the field of database management systems. Her current research focuses on data management for data science, big data systems, cloud computing, and image and video analytics (including data management for VR/AR). Magdalena holds a Ph.D. from the Massachusetts Institute of Technology (2006). She is a Microsoft Research New Faculty Fellow (2007), received the inaugural VLDB Women in Database Research Award (2016), an ACM SIGMOD Test-ofTime Award (2017), an NSF CAREER Award (2009), a 10-year most influential paper award (2010), two Google Research Awards (2011 and 2018), an HP Labs Research Innovation Award (2009 and 2010), a Rogel Faculty Support Award (2006), a Microsoft Research Graduate Fellowship (2003-2005), and multiple best-paper awards.
 
 #### Susan Davidson (University of Pennsylvania) ####
@@ -231,7 +235,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington)** (90 mins) 
+8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#keynotes) (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 11:45-1:00 | Lunch Break (75 mins)
@@ -245,7 +249,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Wednesday, July 24 ####
 
 8:45-9:30 | Registration & Breakfast (45 mins)
-9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania)** [Publication in the Era of Big Data Science](#keynotes) (75 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#keynotes) (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 12:30-1:45 | Lunch Break (75 mins) and Poster Session?
@@ -269,7 +273,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington)** 
+8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#keynotes) (90 mins)
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
