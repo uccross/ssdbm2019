@@ -10,7 +10,7 @@
 
 [[Conference Organizers]](#conference-organizers) 
 [[Program](#program) - [Keynotes](#keynotes) - [Detailed Agenda](#detailed-program) - [Social Events](#social-events)]
-[[Information for Participants](#information-for-participants) - [Registration](#registration) - [**Accommodation**](#accommodation) - [Directions](#directions-getting-there)] 
+[[Information for Participants](#information-for-participants) - [Registration](#registration) - [**Accommodation**](#accommodation) - [Venue](#conference-venue) - [Directions](#directions-getting-there)] 
 [[Sponsorship]](#sponsorship)
 
 **The 31st International Conference on Scientific and Statistical Database Management will be held in Santa Cruz, CA, USA on July 23-25, 2019.** The SSDBM international conference brings together scientific domain experts, database researchers, practitioners, and developers for the presentation and exchange of current research results on concepts, tools, and techniques for scientific and statistical database applications. The 31st SSDBM will provide a forum for original research contributions and practical system design, implementation and evaluation, and, for the first time, reproducibility studies of previous publications. The program of the research track will be supplemented with invited talks and demonstrations. SSDBM 2019 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management.
