@@ -30,7 +30,7 @@ Carlos Maltzahn (General Chair)
 
 ### Chairs
 
-**General:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz - **Program:** [Tanu Malik](http://facsrv.cs.depaul.edu/~tmalik1), DePaul University, Chicago - **Reproducibility:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz - **Demos:** TBD - **Local Arrangements:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz - **Proceedings:** Tanu Malik - **Web:** Ivo Jimenez 
+**General:** [Carlos Maltzahn](https://users.soe.ucsc.edu/~carlosm), University of California, Santa Cruz - **Program:** [Tanu Malik](http://facsrv.cs.depaul.edu/~tmalik1), DePaul University, Chicago - **Reproducibility:** [Ivo Jimenez](https://users.soe.ucsc.edu/~ivo/), University of California, Santa Cruz - **Local Arrangements:** Lavinia Preston and Stephanie Lieggi, University of California, Santa Cruz - **Proceedings:** Tanu Malik - **Web:** Ivo Jimenez 
 
 To contact any of the chairs, please use [ssdbm19@easychair.org](mailto:ssdbm19@easychair.org).
 
