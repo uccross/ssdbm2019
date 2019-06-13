@@ -64,7 +64,7 @@ Marjan Mernik, University of Maribor
 Hui Miao, University of College Park, Maryland  
 Paolo Missier, Newcastle University  
 Beth Plale, Indiana University, Bloomington  
-Neolkis Polyzotis, Google, Inc.  
+Neoklis Polyzotis, Google, Inc.  
 Dave Pugmire, Oakridge National Laboratory  
 Maya Ramanath, Indian Institute of Technology, Delhi  
 Alexander Rasin, DePaul University, Chicago  
