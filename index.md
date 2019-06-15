@@ -177,7 +177,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### Custom Querying ####
 
-- Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. **Answering Keyword Queries Using Effective Subsets**
+- Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. **Less Data Delivers Higher Search Effectiveness for Keyword Queries**
 - Jochem Kuijpers, George H. L. Fletcher, Tobias Lindaaker and Nikolay Yakovets. **An Experimental Study of Context-Free Path Query Evaluation Methods**
 - Joseph Vinish Dsilva, Florestan De Moor and Bettina Kemme. **Keep Your Host Language Object and Also Query it: A Case for SQL Query Support in RDBMS for Host Language Objects**
 
@@ -224,11 +224,11 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 **Bio:** Dr. Susan Davidson is Weiss Professor of Computer and Information Science at the University of Pennsylvania. Her recent leadership roles and awards include Chair, Board of Directors, CRA; Chair, CIS; Member, CCC; Member, VLDB Endowment Board; Deputy Dean, SEAS; co-Founder, Greater Philadelphia Bioinformatics Alliance (GPBA); Founding co-Director, Center for Bioinformatics; Fulbright Scholar and Hitachi Chair, INRIA-GEMO. Her research interests are in Databases, including data models and languages, complex object systems, semistructured data and XML, database transformations, data integration, data warehousing, transactions and updates, constraints, data cleaning, data reconciliation, data citation, and Bioinformatics, including biomedical databases, workflow systems, and data provenance. Prof. Susan Davidson holds a Ph.D. in Computer Science from Princeton University (1982). 
 
-#### Alok Chaudhary (Northwestern University) ####
+#### Less Data Delivers Higher Search Effectiveness for Keyword Queries Choudhary (Northwestern University) ####
 
 <img src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok.jpg" align="right" border="5" width="160">
 
-**Bio:** Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science. Prof. Alok Choudhary's research over the last decades focused on big data science, supercomputing, scalable data mining, Machine Learning and their applications in sciences (e.g. climate understanding, astrophysics, cosmology, designing materials etc.), medicine (e.g, understanding diseases causes, outcome predictions, drug design, surgeries etc.) and business applications (e.g, business intelligence, marketing, advertising). Dr. Alok Choudhary has published more than 400 papers in various journals and international conferences and has graduated 40+ PhD students, including 10 women PhDs, which is one of the highest in the world. He holds several patents. His papers have received the best paper awards in many conferences. He has given keynotes in almost all major international conferences in his fields of, and given more than 50 invited talks at conferences, businesses and universities. Dr. Choudhary’s work has also appeared in main stream media including New York Times, Chicago Tribune, The Telegraph, The Investor Business Daily, ABC, NPR, PBS and many international media outlets all over the world. Dr. Alok Choudhary is the founder, chairman and chief scientist of 4C insights. Prof. Alok Chaudhary holds a Ph.D. in Computer Engineering from the University of Illinois, Urbana-Champaign.
+**Bio:** Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science. Prof. Alok Choudhary's research over the last decades focused on big data science, supercomputing, scalable data mining, Machine Learning and their applications in sciences (e.g. climate understanding, astrophysics, cosmology, designing materials etc.), medicine (e.g, understanding diseases causes, outcome predictions, drug design, surgeries etc.) and business applications (e.g, business intelligence, marketing, advertising). Dr. Alok Choudhary has published more than 400 papers in various journals and international conferences and has graduated 40+ PhD students, including 10 women PhDs, which is one of the highest in the world. He holds several patents. His papers have received the best paper awards in many conferences. He has given keynotes in almost all major international conferences in his fields of, and given more than 50 invited talks at conferences, businesses and universities. Dr. Choudhary’s work has also appeared in main stream media including New York Times, Chicago Tribune, The Telegraph, The Investor Business Daily, ABC, NPR, PBS and many international media outlets all over the world. Dr. Alok Choudhary is the founder, chairman and chief scientist of 4C insights. Prof. Alok Choudhary holds a Ph.D. in Computer Engineering from the University of Illinois, Urbana-Champaign.
 
 ### Program Overview
 
@@ -237,9 +237,9 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 7:45-8:30	| Registration & Breakfast (45 mins)
 8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#keynotes) (90 mins) 
 10:00-10:30	| Morning Break (30 mins)
-10:30-11:45	| **Mining and Data Analysis** (75 mins)
+10:30-11:45	| **Statistical Data Analysis** (75 mins)
 11:45-1:00 | Lunch Break (75 mins)
-1:00-2:15 | **Statistical Data Analysis** (75 mins)
+1:00-2:15 | **Space and time support in database systems** (75 mins)
 2:15-2:45	| Afternoon Break (30 mins)
 2:45-3:55	| **Short Paper Presentations** (5 mins each)
 4:30-5:00 | Shuttle service to UCSC Hay Barn
@@ -263,9 +263,9 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Thursday, July 25 ####
 
 8:45-9:20 | Breakfast (35 mins)
-9:20-10:30 | **Opening Remarks & Keynote Address: Alok Chaudhary (Northwestern University)** (70 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University)** (70 mins)
 10:30-10:50 | Morning Break (20 mins)
-10:50-12:05 | **Space and time support in database systems** (75 mins)
+10:50-12:05 | **Mining and Data Analysis** (75 mins)
 12:05-1:20 | Lunch Break (75 mins) 
 
 ### Detailed Program
@@ -275,15 +275,15 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 7:45-8:30	| Registration & Breakfast (45 mins)
 8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#keynotes) (90 mins)
 10:00-10:30	| Morning Break (30 mins)
-10:30-11:45	| **Mining and Data Analysis** (75 mins)
-| Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
-| Uday Kiran. **Discovering Spatial High Utility Itemsets in Spatiotemporal Datasets**
-| Sebastian Schelter, Ufuk Celebi and Ted Dunning. **Efficient Incremental Cooccurrence Analysis for Item-Based Collaborative Filtering**
-11:45-1:00 | Lunch Break (75 mins)
-1:00-2:15 | **Statistical Data Analysis** (75 mins)
+10:30-11:45	| **Statistical Data Analysis** (75 mins)
 | Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. **Minimizing Bias in Estimation of Mututal Information from Data Streams**
 | Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation** 
 | Luan Tran, Liyue Fan and Cyrus Shahabi. **Outlier Detection in Non-stationary Data Streams**
+11:45-1:00 | Lunch Break (75 mins)
+1:00-2:15 | **Space and time support in database systems** (75 mins)
+| Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
+| Robert Schuler and Carl Kesselman. **A High-level User-oriented Framework for Database Evolution** 
+| Maximilian Schüle, Lukas Karnowski, Josef Schmeißer, Benedikt Kleiner, Alfons Kemper and Thomas Neumann. **Versioning in Main-Memory Database Systems: From MusauesDB to TardisDB**
 2:15-2:45	| Afternoon Break (30 mins)
 2:45-3:55	| **Short Paper Presentations** (5 mins each)
 | See [accepted short papers](#short-papers).
@@ -302,7 +302,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 | Michael Vollmer, Lukasz Golab, Klemens Böhm and Divesh Srivastava. **Informative Summarization of Numeric Data**
 12:30-1:45 | Lunch Break (75 mins)
 1:45-3:00	| **Custom Querying** (75 mins) 
-| Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. **Answering Keyword Queries Using Effective Subsets**
+| Vahid Ghadakchi, Abtin Khodadadi and Arash Termehchy. **Less Data Delivers Higher Search Effectiveness for Keyword Queries**
 | Jochem Kuijpers, George H. L. Fletcher, Tobias Lindaaker and Nikolay Yakovets. **An Experimental Study of Context-Free Path Query Evaluation Methods**
 | Joseph Vinish Dsilva, Florestan De Moor and Bettina Kemme. **Keep Your Host Language Object and Also Query it: A Case for SQL Query Support in RDBMS for Host Language Objects**
 3:00-4:15	| **Poster Session**
@@ -315,12 +315,12 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Thursday, July 25 ####
 
 8:45-9:20 | Breakfast (35 mins)
-9:20-10:30 | **Opening Remarks & Keynote Address: Alok Chaudhary (Northwestern University)** (70 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University)** (70 mins)
 10:30-10:50 | Morning Break (20 mins)
-10:50-12:05 | **Space and time support in database systems** (75 mins)
-| Haoyuan Xing and Gagan Agrawal. **Accelerated Array Joining with integrated index value**
-| Robert Schuler and Carl Kesselman. **A High-level User-oriented Framework for Database Evolution** 
-| Maximilian Schüle, Lukas Karnowski, Josef Schmeißer, Benedikt Kleiner, Alfons Kemper and Thomas Neumann. **Versioning in Main-Memory Database Systems: From MusauesDB to TardisDB**
+10:50-12:05 | **Mining and Data Analysis** (75 mins)
+| Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
+| Uday Kiran. **Discovering Spatial High Utility Itemsets in Spatiotemporal Datasets**
+| Sebastian Schelter, Ufuk Celebi and Ted Dunning. **Efficient Incremental Cooccurrence Analysis for Item-Based Collaborative Filtering**
 12:05-1:20 | Lunch Break (75 mins) 
 
 ### Social Events
