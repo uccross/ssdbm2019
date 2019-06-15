@@ -224,7 +224,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 **Bio:** Dr. Susan Davidson is Weiss Professor of Computer and Information Science at the University of Pennsylvania. Her recent leadership roles and awards include Chair, Board of Directors, CRA; Chair, CIS; Member, CCC; Member, VLDB Endowment Board; Deputy Dean, SEAS; co-Founder, Greater Philadelphia Bioinformatics Alliance (GPBA); Founding co-Director, Center for Bioinformatics; Fulbright Scholar and Hitachi Chair, INRIA-GEMO. Her research interests are in Databases, including data models and languages, complex object systems, semistructured data and XML, database transformations, data integration, data warehousing, transactions and updates, constraints, data cleaning, data reconciliation, data citation, and Bioinformatics, including biomedical databases, workflow systems, and data provenance. Prof. Susan Davidson holds a Ph.D. in Computer Science from Princeton University (1982). 
 
-#### Less Data Delivers Higher Search Effectiveness for Keyword Queries Choudhary (Northwestern University) ####
+#### Alok Choudhary (Northwestern University) ####
 
 <img src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok.jpg" align="right" border="5" width="160">
 
