@@ -277,7 +277,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Tuesday, July 23 ####
 
 7:45-8:30	| Registration & Breakfast (45 mins)
-8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#keynotes) (90 mins)
+8:30-10:00 | **Welcome & Keynote Address: Magdalena Balazinska (University of Washington):** [The LightDB Video Database Management System](#magdalena-balazinska-university-of-washington) (90 mins)
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Statistical Data Analysis** (75 mins)
 | Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. **Minimizing Bias in Estimation of Mututal Information from Data Streams**
@@ -298,7 +298,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Wednesday, July 24 ####
 
 8:45-9:30 | Registration & Breakfast (45 mins)
-9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#keynotes) (75 mins)
+9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#susan-davidson-university-of-pennsylvania) (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
 | Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
@@ -319,7 +319,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Thursday, July 25 ####
 
 8:45-9:20 | Breakfast (35 mins)
-9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University):** [Accelerating Discoveries and Designs with Data Science and Machine Learning](#keynotes) (70 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University):** [Accelerating Discoveries and Designs with Data Science and Machine Learning](#alok-choudhary-northwestern-university) (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
