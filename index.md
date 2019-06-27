@@ -4,7 +4,7 @@
 </div>
 ![UCSC and Engineering 2](assets/images/UCSCAndEngineering2.png)
 
-**Please make hotel reservations now. Most reservation blocks expire June 21!**
+**Please register and make hotel reservations now! Some hotel conference rates might still be available for a few days! Regular registration ends July 6.**
 
 # Welcome to SSDBM 2019 #
 
