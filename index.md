@@ -228,7 +228,11 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 <img src="https://www.mccormick.northwestern.edu/images/research-and-faculty/directory/choudhary-alok.jpg" align="right" border="5" width="160">
 
-**Bio:** Alok Choudhary is Henry and Isabelle Dever Professor of Electrical and Computer Engineering and (by courtesy) Computer Science. Prof. Alok Choudhary's research over the last decades focused on big data science, supercomputing, scalable data mining, Machine Learning and their applications in sciences (e.g. climate understanding, astrophysics, cosmology, designing materials etc.), medicine (e.g, understanding diseases causes, outcome predictions, drug design, surgeries etc.) and business applications (e.g, business intelligence, marketing, advertising). Dr. Alok Choudhary has published more than 400 papers in various journals and international conferences and has graduated 40+ PhD students, including 10 women PhDs, which is one of the highest in the world. He holds several patents. His papers have received the best paper awards in many conferences. He has given keynotes in almost all major international conferences in his fields of, and given more than 50 invited talks at conferences, businesses and universities. Dr. Choudhary’s work has also appeared in main stream media including New York Times, Chicago Tribune, The Telegraph, The Investor Business Daily, ABC, NPR, PBS and many international media outlets all over the world. Dr. Alok Choudhary is the founder, chairman and chief scientist of 4C insights. Prof. Alok Choudhary holds a Ph.D. in Computer Engineering from the University of Illinois, Urbana-Champaign.
+**Title:** Accelerating Discoveries and Designs with Data Science and Machine Learning
+
+**Abstract:** Modern instruments, supercomputing simulations, experiments, sensors and IoT are creating massive amounts of data at an astonishing speed and diversity. This has the potential to transform speed of discovery, thereby accelerating the pace of innovation in materials, medicine to marketing and many disciplines in between. This talk will illustrate how HPC, data science and ML collectively can accelerate discoveries in these and other disciplines. 
+
+**Bio:** Alok Choudhary is the Henry & Isabelle Dever Professor of Electrical Engineering and Computer Science and a professor at Kellogg School of Management. He is also the founder, chairman and chief scientist (served as its CEO during 2011-2013) of 4C insights (formerly Voxsup Inc.), a big data analytics and marketing technology software company. He received the National Science Foundation's Young Investigator Award in 1993. He is a fellow of IEEE, ACM and AAAS. His research interests are in high-performance computing, data intensive computing, scalable data mining, high-performance I/O systems, software and their applications in science, medicine and business. Alok Choudhary has published more than 400 papers in various journals and conferences and has graduated 40+ PhD students. Alok Choudhary’s work and interviews have appeared in many traditional media including New York Times, Chicago Tribune, The Telegraph, ABC, PBS, NPR, AdExchanger, Business Daily and many international media outlets all over the world. He holds a Ph.D. in Computer Engineering from the University of Illinois, Urbana-Champaign.
 
 ### Program Overview
 
@@ -263,7 +267,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Thursday, July 25 ####
 
 8:45-9:20 | Breakfast (35 mins)
-9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University)** (70 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University):** [Accelerating Discoveries and Designs with Data Science and Machine Learning](#keynotes) (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Mining and Data Analysis** (75 mins)
 12:05-1:20 | Lunch Break (75 mins) 
@@ -315,7 +319,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Thursday, July 25 ####
 
 8:45-9:20 | Breakfast (35 mins)
-9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University)** (70 mins)
+9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University):** [Accelerating Discoveries and Designs with Data Science and Machine Learning](#keynotes) (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Mining and Data Analysis** (75 mins)
 | Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
