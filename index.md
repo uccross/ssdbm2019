@@ -4,7 +4,7 @@
 </div>
 ![UCSC and Engineering 2](assets/images/UCSCAndEngineering2.png)
 
-**Please register and make hotel reservations now! Some hotel conference rates might still be available for a few days! Regular registration ends July 6.**
+**Please register and make hotel reservations now! Some hotel conference rates might still be available for a few days! Regular registration ends ~~July 6~~ July 8.**
 
 # Welcome to SSDBM 2019 #
 
@@ -370,8 +370,8 @@ Regular registration fees are available through July 6, 2019. Late registration 
 
 Type of Fee | Dates available | Amount
 --- | --- | ----
-Regular Registration | April 29 through July 6 | $475.00
-Late Registration | July 7 through July 25 | $600.00
+Regular Registration | April 29 through **~~July 6~~ July 8** | $475.00
+Late Registration | **~~July 7~~ July 9** through July 25 | $600.00
 Guest fees for Reception and Banquet | April 29 through July 24 | $90.00 (up to 3 guests)
 
 Registration fees include:
