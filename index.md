@@ -4,8 +4,6 @@
 </div>
 ![UCSC and Engineering 2](assets/images/UCSCAndEngineering2.png)
 
-**Please register and make hotel reservations now! Some hotel conference rates might still be available for a few days! Regular registration ends ~~July 6~~ July 14.**
-
 # Welcome to SSDBM 2019 #
 
 [[Conference Organizers]](#conference-organizers) 
@@ -159,7 +157,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### Mining and Data Analysis ####
 
-- Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
+- Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Mapping Generation in the Wild** 
 - Uday Kiran. **Discovering Spatial High Utility Itemsets in Spatiotemporal Datasets**
 - Sebastian Schelter, Ufuk Celebi and Ted Dunning. **Efficient Incremental Cooccurrence Analysis for Item-Based Collaborative Filtering**
 
@@ -322,7 +320,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 9:20-10:30 | **Opening Remarks & Keynote Address: Alok Choudhary (Northwestern University):** [Accelerating Discoveries and Designs with Data Science and Machine Learning](#alok-choudhary-northwestern-university) (70 mins)
 10:30-10:50 | Morning Break (20 mins)
 10:50-12:05 | **Mining and Data Analysis** (75 mins)
-| Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Generation Mapping in the Wild** 
+| Lacramioara Mazilu, Norman Paton, Alvaro Fernandes and Martin Koehler. **Dynamap Schema Mapping Generation in the Wild** 
 | Uday Kiran. **Discovering Spatial High Utility Itemsets in Spatiotemporal Datasets**
 | Sebastian Schelter, Ufuk Celebi and Ted Dunning. **Efficient Incremental Cooccurrence Analysis for Item-Based Collaborative Filtering**
 12:05-1:20 | Lunch Break (75 mins) 
