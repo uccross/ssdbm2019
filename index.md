@@ -204,7 +204,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 #### Magdalena Balazinska (University of Washington) ####
 
-<img src="https://s3-us-west-2.amazonaws.com/www-cse-public/images/portraits/magda_sm.jpg" align="right" border="5">
+<img src="https://escience.washington.edu/wp-content/uploads/2015/09/Bio_Magda-Balazinska.jpg" align="right" border="5">
 
 **Title:** The LightDB Video Database Management System
 
