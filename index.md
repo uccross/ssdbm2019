@@ -164,12 +164,12 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 #### Statistical Data Analysis ####
 
 - Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. **Minimizing Bias in Estimation of Mututal Information from Data Streams**
-- Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation** 
+- Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation (Best Paper)** 
 - Luan Tran, Liyue Fan and Cyrus Shahabi. **Outlier Detection in Non-stationary Data Streams**
 
 #### Data Summarization ####
 
-- Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
+- Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates (Best Paper Runner Up)**.
 - Jinho Lee and Frank Liu. **An Efficient Graph Compressor Based on Adaptive Prefix Encoding**
 - Michael Vollmer, Lukasz Golab, Klemens Böhm and Divesh Srivastava. **Informative Summarization of Numeric Data**
 
