@@ -279,7 +279,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 10:00-10:30	| Morning Break (30 mins)
 10:30-11:45	| **Statistical Data Analysis** (75 mins)
 | Vadim Arzamasov, Klemens Boehm and Ignaz Rutter. **Minimizing Bias in Estimation of Mututal Information from Data Streams**
-| Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation** 
+| Edouard Fouché and Klemens Böhm. **Monte Carlo Dependency Estimation (Best Paper)** 
 | Luan Tran, Liyue Fan and Cyrus Shahabi. **Outlier Detection in Non-stationary Data Streams**
 11:45-1:00 | Lunch Break (75 mins)
 1:00-2:15 | **Space and time support in database systems** (75 mins)
@@ -299,7 +299,7 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 9:30-10:45 | **Welcome & Keynote Address: Susan Davidson (University of Pennsylvania):** [Publication in the Era of Big Data Science](#susan-davidson-university-of-pennsylvania) (75 mins)
 10:45-11:15 | Morning Break (30 mins)
 11:15-12:30 | **Data Summarization** (75 mins)
-| Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates**.
+| Ioannis Mytilinis, Dimitrios Tsoumakos and Nectarios Koziris.  **Maintaining Wavelet Synopses for Sliding Window Aggregates (Best Paper Runner Up)**.
 | Jinho Lee and Frank Liu. **An Efficient Graph Compressor Based on Adaptive Prefix Encoding**
 | Michael Vollmer, Lukasz Golab, Klemens Böhm and Divesh Srivastava. **Informative Summarization of Numeric Data**
 12:30-1:45 | Lunch Break (75 mins)
