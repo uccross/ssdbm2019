@@ -19,6 +19,8 @@ Carlos Maltzahn (General Chair)
 
 ### We thank our sponsors
 
+<a href="https://cross.ucsc.edu"><img src="assets/images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="300"></a> 
+
 ### Local organizers
 <a href="https://cross.ucsc.edu"><img src="assets/images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="300"></a> 
 
@@ -828,3 +830,5 @@ E-mail: slieggi@ucsc.edu
 Phone: +1-831-459-1932  
 
 ### Sponsor List
+
+<a href="https://cross.ucsc.edu"><img src="assets/images/CROSS-Logo-Final.png" alt="Center for Research in Open Source Software" width="300"></a> 
