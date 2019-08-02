@@ -7,7 +7,7 @@
 # Welcome to SSDBM 2019 #
 
 [[Conference Organizers]](#conference-organizers) 
-[[Program](#program) - [Keynotes](#keynotes) - [**Detailed Agenda**](#detailed-program) - [Social Events](#social-events)]
+[[Program](#program) - [**Proceedings**](#proceedings) - [Keynotes](#keynotes) - [Detailed Agenda](#detailed-program) - [Social Events](#social-events)]
 [[Information for Participants](#information-for-participants) - [Registration](#registration) - [Accommodation](#accommodation) - [Venue](#conference-venue) - [Directions](#directions-getting-there)] 
 [[Sponsorship]](#sponsorship)
 
@@ -153,6 +153,9 @@ For any questions regarding your camera-ready version, please contact [ssdbm19@e
 
 # Program
 ### Proceedings
+
+Proceedings are availabe at the ACM Digital Library: [https://dl.acm.org/citation.cfm?id=3335783](https://dl.acm.org/citation.cfm?id=3335783)
+
 ### Accepted Papers
 
 #### Mining and Data Analysis ####
